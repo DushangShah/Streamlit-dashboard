@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Load the data
-df = pd.read_csv("/Users/dushangshah/Downloads/ALL Subject Assignment/ALY 6040/Week 4/starbucks_sales_2024.csv")
+df = pd.read_csv("starbucks_sales_2024.csv")
 df['date'] = pd.to_datetime(df['date'])
 
 # Sidebar filters
