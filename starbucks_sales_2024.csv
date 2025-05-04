@@ -1,0 +1,1201 @@
+store_id,city,country,store_type,date,total_sales,product_category,avg_order_value,loyalty_member_count
+1001,Port Jackville,USA,Cafe,2024-01-01,51221.71,Food,4.87,947
+1001,Port Jackville,USA,Cafe,2024-02-01,20623.37,Beverage,5.36,185
+1001,Port Jackville,USA,Cafe,2024-03-01,31035.99,Merchandise,4.53,807
+1001,Port Jackville,USA,Cafe,2024-04-01,51600.42,Merchandise,7.0,899
+1001,Port Jackville,USA,Cafe,2024-05-01,66267.76,Beverage,6.54,210
+1001,Port Jackville,USA,Cafe,2024-06-01,34238.17,Merchandise,5.96,504
+1001,Port Jackville,USA,Cafe,2024-07-01,31302.39,Food,7.52,337
+1001,Port Jackville,USA,Cafe,2024-08-01,54836.63,Beverage,6.12,422
+1001,Port Jackville,USA,Cafe,2024-09-01,91220.58,Merchandise,4.8,880
+1001,Port Jackville,USA,Cafe,2024-10-01,97785.8,Food,9.93,724
+1001,Port Jackville,USA,Cafe,2024-11-01,35139.97,Food,6.33,600
+1001,Port Jackville,USA,Cafe,2024-12-01,68808.35,Food,8.36,373
+1002,Shawnmouth,France,Cafe,2024-01-01,21292.46,Beverage,9.28,605
+1002,Shawnmouth,France,Cafe,2024-02-01,99708.04,Merchandise,4.94,676
+1002,Shawnmouth,France,Cafe,2024-03-01,43689.23,Food,10.33,705
+1002,Shawnmouth,France,Cafe,2024-04-01,91977.7,Food,6.79,955
+1002,Shawnmouth,France,Cafe,2024-05-01,87299.82,Merchandise,8.47,920
+1002,Shawnmouth,France,Cafe,2024-06-01,61204.56,Food,8.42,774
+1002,Shawnmouth,France,Cafe,2024-07-01,81519.63,Beverage,6.34,661
+1002,Shawnmouth,France,Cafe,2024-08-01,24845.98,Beverage,10.15,711
+1002,Shawnmouth,France,Cafe,2024-09-01,28922.22,Merchandise,7.67,606
+1002,Shawnmouth,France,Cafe,2024-10-01,93731.84,Food,10.49,223
+1002,Shawnmouth,France,Cafe,2024-11-01,75140.11,Food,4.63,119
+1002,Shawnmouth,France,Cafe,2024-12-01,91467.83,Merchandise,7.28,424
+1003,Parkhaven,USA,Drive-Thru,2024-01-01,42929.19,Beverage,4.88,231
+1003,Parkhaven,USA,Drive-Thru,2024-02-01,45379.09,Beverage,10.05,635
+1003,Parkhaven,USA,Drive-Thru,2024-03-01,56033.51,Merchandise,5.52,566
+1003,Parkhaven,USA,Drive-Thru,2024-04-01,68069.99,Merchandise,8.57,948
+1003,Parkhaven,USA,Drive-Thru,2024-05-01,65651.5,Beverage,6.96,531
+1003,Parkhaven,USA,Drive-Thru,2024-06-01,77544.24,Food,7.13,415
+1003,Parkhaven,USA,Drive-Thru,2024-07-01,91790.46,Merchandise,8.52,912
+1003,Parkhaven,USA,Drive-Thru,2024-08-01,47365.44,Beverage,10.38,666
+1003,Parkhaven,USA,Drive-Thru,2024-09-01,90919.07,Food,4.65,870
+1003,Parkhaven,USA,Drive-Thru,2024-10-01,57798.24,Merchandise,9.43,559
+1003,Parkhaven,USA,Drive-Thru,2024-11-01,57308.51,Beverage,7.75,506
+1003,Parkhaven,USA,Drive-Thru,2024-12-01,61765.19,Food,8.08,470
+1004,Katiechester,Japan,Kiosk,2024-01-01,31876.41,Merchandise,7.69,760
+1004,Katiechester,Japan,Kiosk,2024-02-01,46542.2,Food,7.28,467
+1004,Katiechester,Japan,Kiosk,2024-03-01,72407.05,Food,8.8,531
+1004,Katiechester,Japan,Kiosk,2024-04-01,39252.21,Beverage,8.36,106
+1004,Katiechester,Japan,Kiosk,2024-05-01,49209.6,Beverage,6.45,890
+1004,Katiechester,Japan,Kiosk,2024-06-01,71192.65,Merchandise,5.04,963
+1004,Katiechester,Japan,Kiosk,2024-07-01,61289.39,Food,8.4,665
+1004,Katiechester,Japan,Kiosk,2024-08-01,20760.64,Merchandise,7.12,286
+1004,Katiechester,Japan,Kiosk,2024-09-01,27117.49,Merchandise,7.96,688
+1004,Katiechester,Japan,Kiosk,2024-10-01,99091.38,Food,9.29,103
+1004,Katiechester,Japan,Kiosk,2024-11-01,79997.01,Merchandise,8.73,740
+1004,Katiechester,Japan,Kiosk,2024-12-01,71290.17,Food,5.26,940
+1005,Yangberg,Brazil,Kiosk,2024-01-01,30251.72,Food,9.52,672
+1005,Yangberg,Brazil,Kiosk,2024-02-01,32770.56,Beverage,6.44,465
+1005,Yangberg,Brazil,Kiosk,2024-03-01,51862.85,Food,5.04,774
+1005,Yangberg,Brazil,Kiosk,2024-04-01,62819.08,Beverage,7.79,782
+1005,Yangberg,Brazil,Kiosk,2024-05-01,56500.11,Food,5.4,203
+1005,Yangberg,Brazil,Kiosk,2024-06-01,73526.27,Merchandise,10.28,564
+1005,Yangberg,Brazil,Kiosk,2024-07-01,38056.34,Beverage,7.0,550
+1005,Yangberg,Brazil,Kiosk,2024-08-01,90547.07,Merchandise,6.54,514
+1005,Yangberg,Brazil,Kiosk,2024-09-01,56324.92,Merchandise,5.38,416
+1005,Yangberg,Brazil,Kiosk,2024-10-01,65864.84,Food,5.98,525
+1005,Yangberg,Brazil,Kiosk,2024-11-01,48451.06,Beverage,8.69,154
+1005,Yangberg,Brazil,Kiosk,2024-12-01,41159.12,Food,5.23,285
+1006,South Donald,Brazil,Drive-Thru,2024-01-01,35339.12,Beverage,7.4,146
+1006,South Donald,Brazil,Drive-Thru,2024-02-01,80981.08,Food,8.31,537
+1006,South Donald,Brazil,Drive-Thru,2024-03-01,46037.71,Beverage,8.9,495
+1006,South Donald,Brazil,Drive-Thru,2024-04-01,68871.56,Food,7.19,441
+1006,South Donald,Brazil,Drive-Thru,2024-05-01,90203.6,Food,7.19,757
+1006,South Donald,Brazil,Drive-Thru,2024-06-01,61146.91,Beverage,5.42,201
+1006,South Donald,Brazil,Drive-Thru,2024-07-01,57358.31,Merchandise,9.99,620
+1006,South Donald,Brazil,Drive-Thru,2024-08-01,22751.07,Beverage,10.34,791
+1006,South Donald,Brazil,Drive-Thru,2024-09-01,98507.93,Food,5.91,225
+1006,South Donald,Brazil,Drive-Thru,2024-10-01,98334.87,Beverage,10.43,104
+1006,South Donald,Brazil,Drive-Thru,2024-11-01,22773.17,Beverage,7.91,109
+1006,South Donald,Brazil,Drive-Thru,2024-12-01,27307.22,Beverage,6.93,817
+1007,Williamview,Australia,Cafe,2024-01-01,36489.83,Beverage,5.21,496
+1007,Williamview,Australia,Cafe,2024-02-01,83764.1,Beverage,7.37,878
+1007,Williamview,Australia,Cafe,2024-03-01,44194.36,Merchandise,6.68,919
+1007,Williamview,Australia,Cafe,2024-04-01,33253.16,Beverage,4.8,928
+1007,Williamview,Australia,Cafe,2024-05-01,33014.91,Merchandise,5.04,310
+1007,Williamview,Australia,Cafe,2024-06-01,77716.04,Merchandise,7.19,630
+1007,Williamview,Australia,Cafe,2024-07-01,68899.66,Food,9.66,296
+1007,Williamview,Australia,Cafe,2024-08-01,65774.44,Merchandise,8.02,158
+1007,Williamview,Australia,Cafe,2024-09-01,30595.81,Food,7.47,635
+1007,Williamview,Australia,Cafe,2024-10-01,37566.59,Food,10.42,763
+1007,Williamview,Australia,Cafe,2024-11-01,33882.75,Merchandise,8.51,116
+1007,Williamview,Australia,Cafe,2024-12-01,54313.37,Beverage,5.83,135
+1008,Petersonland,Canada,Kiosk,2024-01-01,86123.74,Beverage,5.61,749
+1008,Petersonland,Canada,Kiosk,2024-02-01,72722.39,Beverage,6.73,569
+1008,Petersonland,Canada,Kiosk,2024-03-01,38015.88,Merchandise,10.17,837
+1008,Petersonland,Canada,Kiosk,2024-04-01,89469.67,Food,8.05,760
+1008,Petersonland,Canada,Kiosk,2024-05-01,88163.58,Merchandise,6.3,789
+1008,Petersonland,Canada,Kiosk,2024-06-01,45872.44,Beverage,5.53,704
+1008,Petersonland,Canada,Kiosk,2024-07-01,59340.86,Merchandise,10.34,484
+1008,Petersonland,Canada,Kiosk,2024-08-01,99560.57,Food,7.9,368
+1008,Petersonland,Canada,Kiosk,2024-09-01,78946.3,Food,9.15,353
+1008,Petersonland,Canada,Kiosk,2024-10-01,54089.64,Food,8.84,677
+1008,Petersonland,Canada,Kiosk,2024-11-01,61497.01,Merchandise,8.21,724
+1008,Petersonland,Canada,Kiosk,2024-12-01,29045.38,Merchandise,8.25,746
+1009,West Jessica,UK,Cafe,2024-01-01,94514.89,Food,7.11,487
+1009,West Jessica,UK,Cafe,2024-02-01,37709.66,Beverage,7.99,664
+1009,West Jessica,UK,Cafe,2024-03-01,45421.09,Food,8.29,675
+1009,West Jessica,UK,Cafe,2024-04-01,72192.9,Food,9.36,674
+1009,West Jessica,UK,Cafe,2024-05-01,32216.71,Merchandise,9.27,145
+1009,West Jessica,UK,Cafe,2024-06-01,43069.87,Merchandise,7.01,138
+1009,West Jessica,UK,Cafe,2024-07-01,33502.85,Food,5.19,258
+1009,West Jessica,UK,Cafe,2024-08-01,63710.56,Merchandise,6.28,379
+1009,West Jessica,UK,Cafe,2024-09-01,53935.48,Merchandise,8.23,679
+1009,West Jessica,UK,Cafe,2024-10-01,43974.94,Food,6.59,153
+1009,West Jessica,UK,Cafe,2024-11-01,65009.01,Food,5.64,203
+1009,West Jessica,UK,Cafe,2024-12-01,94920.23,Beverage,9.99,320
+1010,South Lee,India,Drive-Thru,2024-01-01,88925.3,Beverage,7.09,670
+1010,South Lee,India,Drive-Thru,2024-02-01,46484.45,Food,5.7,733
+1010,South Lee,India,Drive-Thru,2024-03-01,58756.83,Food,9.04,704
+1010,South Lee,India,Drive-Thru,2024-04-01,43683.93,Food,5.74,627
+1010,South Lee,India,Drive-Thru,2024-05-01,95052.4,Food,8.11,495
+1010,South Lee,India,Drive-Thru,2024-06-01,56535.08,Merchandise,6.25,559
+1010,South Lee,India,Drive-Thru,2024-07-01,94371.13,Merchandise,7.89,366
+1010,South Lee,India,Drive-Thru,2024-08-01,51079.77,Food,7.47,970
+1010,South Lee,India,Drive-Thru,2024-09-01,54646.67,Merchandise,8.74,597
+1010,South Lee,India,Drive-Thru,2024-10-01,86014.66,Merchandise,8.97,412
+1010,South Lee,India,Drive-Thru,2024-11-01,90726.7,Beverage,7.76,675
+1010,South Lee,India,Drive-Thru,2024-12-01,72048.14,Beverage,5.06,608
+1011,Samanthabury,USA,Kiosk,2024-01-01,42358.79,Merchandise,7.88,610
+1011,Samanthabury,USA,Kiosk,2024-02-01,35618.74,Merchandise,5.63,997
+1011,Samanthabury,USA,Kiosk,2024-03-01,82925.33,Beverage,9.54,148
+1011,Samanthabury,USA,Kiosk,2024-04-01,23810.43,Food,6.37,498
+1011,Samanthabury,USA,Kiosk,2024-05-01,80555.41,Food,9.4,473
+1011,Samanthabury,USA,Kiosk,2024-06-01,46084.38,Merchandise,9.34,252
+1011,Samanthabury,USA,Kiosk,2024-07-01,55035.03,Beverage,7.39,181
+1011,Samanthabury,USA,Kiosk,2024-08-01,83167.77,Beverage,7.71,746
+1011,Samanthabury,USA,Kiosk,2024-09-01,54540.09,Beverage,9.84,687
+1011,Samanthabury,USA,Kiosk,2024-10-01,80034.31,Beverage,7.34,211
+1011,Samanthabury,USA,Kiosk,2024-11-01,91283.97,Merchandise,5.26,231
+1011,Samanthabury,USA,Kiosk,2024-12-01,88175.77,Merchandise,8.31,562
+1012,Amandaport,Australia,Cafe,2024-01-01,98427.11,Beverage,8.57,534
+1012,Amandaport,Australia,Cafe,2024-02-01,48647.46,Beverage,7.91,555
+1012,Amandaport,Australia,Cafe,2024-03-01,34530.01,Beverage,9.28,282
+1012,Amandaport,Australia,Cafe,2024-04-01,88638.52,Food,5.85,879
+1012,Amandaport,Australia,Cafe,2024-05-01,27039.9,Beverage,9.09,277
+1012,Amandaport,Australia,Cafe,2024-06-01,90522.27,Food,8.69,369
+1012,Amandaport,Australia,Cafe,2024-07-01,72830.06,Merchandise,9.08,831
+1012,Amandaport,Australia,Cafe,2024-08-01,40199.22,Beverage,7.68,231
+1012,Amandaport,Australia,Cafe,2024-09-01,43956.97,Merchandise,9.63,907
+1012,Amandaport,Australia,Cafe,2024-10-01,81216.25,Merchandise,9.21,920
+1012,Amandaport,Australia,Cafe,2024-11-01,76598.14,Merchandise,6.93,358
+1012,Amandaport,Australia,Cafe,2024-12-01,34723.39,Merchandise,9.49,229
+1013,East Pamelabury,France,Kiosk,2024-01-01,85433.81,Beverage,9.06,432
+1013,East Pamelabury,France,Kiosk,2024-02-01,66397.76,Beverage,7.6,601
+1013,East Pamelabury,France,Kiosk,2024-03-01,72881.37,Food,4.98,988
+1013,East Pamelabury,France,Kiosk,2024-04-01,67641.6,Merchandise,6.05,858
+1013,East Pamelabury,France,Kiosk,2024-05-01,30131.3,Food,6.11,537
+1013,East Pamelabury,France,Kiosk,2024-06-01,88449.85,Food,7.36,767
+1013,East Pamelabury,France,Kiosk,2024-07-01,91714.21,Merchandise,5.84,409
+1013,East Pamelabury,France,Kiosk,2024-08-01,41998.14,Food,5.02,481
+1013,East Pamelabury,France,Kiosk,2024-09-01,40419.4,Food,4.81,795
+1013,East Pamelabury,France,Kiosk,2024-10-01,97861.75,Beverage,9.42,429
+1013,East Pamelabury,France,Kiosk,2024-11-01,42135.34,Merchandise,7.05,725
+1013,East Pamelabury,France,Kiosk,2024-12-01,96605.2,Beverage,9.17,547
+1014,Lake Michael,Japan,Cafe,2024-01-01,85622.48,Beverage,10.17,254
+1014,Lake Michael,Japan,Cafe,2024-02-01,39876.77,Merchandise,9.17,135
+1014,Lake Michael,Japan,Cafe,2024-03-01,73473.69,Merchandise,8.15,997
+1014,Lake Michael,Japan,Cafe,2024-04-01,76283.06,Beverage,6.06,354
+1014,Lake Michael,Japan,Cafe,2024-05-01,99354.25,Merchandise,6.25,959
+1014,Lake Michael,Japan,Cafe,2024-06-01,47253.64,Food,5.03,935
+1014,Lake Michael,Japan,Cafe,2024-07-01,41536.91,Food,7.76,311
+1014,Lake Michael,Japan,Cafe,2024-08-01,83456.3,Beverage,6.05,782
+1014,Lake Michael,Japan,Cafe,2024-09-01,80945.42,Beverage,5.89,760
+1014,Lake Michael,Japan,Cafe,2024-10-01,63741.75,Merchandise,6.01,336
+1014,Lake Michael,Japan,Cafe,2024-11-01,45578.8,Beverage,8.66,347
+1014,Lake Michael,Japan,Cafe,2024-12-01,64845.7,Merchandise,9.02,496
+1015,Williamston,India,Cafe,2024-01-01,35264.29,Food,4.57,686
+1015,Williamston,India,Cafe,2024-02-01,20407.87,Merchandise,9.25,482
+1015,Williamston,India,Cafe,2024-03-01,75005.8,Merchandise,5.69,281
+1015,Williamston,India,Cafe,2024-04-01,40873.42,Beverage,5.66,556
+1015,Williamston,India,Cafe,2024-05-01,68819.72,Beverage,7.38,794
+1015,Williamston,India,Cafe,2024-06-01,91779.88,Food,5.6,398
+1015,Williamston,India,Cafe,2024-07-01,52965.71,Beverage,8.9,272
+1015,Williamston,India,Cafe,2024-08-01,41634.19,Merchandise,4.95,281
+1015,Williamston,India,Cafe,2024-09-01,78570.29,Food,5.11,252
+1015,Williamston,India,Cafe,2024-10-01,83555.52,Merchandise,8.95,157
+1015,Williamston,India,Cafe,2024-11-01,73483.92,Merchandise,6.87,749
+1015,Williamston,India,Cafe,2024-12-01,85150.7,Merchandise,9.62,298
+1016,Lake Shawn,Germany,Kiosk,2024-01-01,35154.24,Food,8.77,512
+1016,Lake Shawn,Germany,Kiosk,2024-02-01,33836.46,Beverage,6.76,972
+1016,Lake Shawn,Germany,Kiosk,2024-03-01,41568.21,Food,6.74,901
+1016,Lake Shawn,Germany,Kiosk,2024-04-01,90199.75,Food,8.35,693
+1016,Lake Shawn,Germany,Kiosk,2024-05-01,73131.27,Beverage,6.27,117
+1016,Lake Shawn,Germany,Kiosk,2024-06-01,23944.06,Food,5.45,860
+1016,Lake Shawn,Germany,Kiosk,2024-07-01,26509.62,Beverage,9.91,683
+1016,Lake Shawn,Germany,Kiosk,2024-08-01,75617.15,Beverage,8.09,446
+1016,Lake Shawn,Germany,Kiosk,2024-09-01,60666.06,Food,10.09,199
+1016,Lake Shawn,Germany,Kiosk,2024-10-01,88187.55,Beverage,9.46,596
+1016,Lake Shawn,Germany,Kiosk,2024-11-01,74802.69,Food,4.64,257
+1016,Lake Shawn,Germany,Kiosk,2024-12-01,70009.14,Beverage,9.07,885
+1017,South Lauramouth,Australia,Cafe,2024-01-01,73568.21,Merchandise,9.85,499
+1017,South Lauramouth,Australia,Cafe,2024-02-01,96104.39,Merchandise,8.73,151
+1017,South Lauramouth,Australia,Cafe,2024-03-01,83262.75,Beverage,9.38,695
+1017,South Lauramouth,Australia,Cafe,2024-04-01,91468.35,Beverage,4.95,599
+1017,South Lauramouth,Australia,Cafe,2024-05-01,50705.24,Food,9.52,822
+1017,South Lauramouth,Australia,Cafe,2024-06-01,75950.39,Merchandise,6.53,626
+1017,South Lauramouth,Australia,Cafe,2024-07-01,77993.44,Merchandise,8.76,938
+1017,South Lauramouth,Australia,Cafe,2024-08-01,92210.77,Beverage,7.28,753
+1017,South Lauramouth,Australia,Cafe,2024-09-01,39667.25,Food,8.93,427
+1017,South Lauramouth,Australia,Cafe,2024-10-01,86143.32,Food,9.58,278
+1017,South Lauramouth,Australia,Cafe,2024-11-01,46249.35,Merchandise,10.11,517
+1017,South Lauramouth,Australia,Cafe,2024-12-01,93767.93,Merchandise,9.08,961
+1018,Michaelport,Australia,Kiosk,2024-01-01,43045.75,Merchandise,8.81,716
+1018,Michaelport,Australia,Kiosk,2024-02-01,80710.76,Beverage,8.64,931
+1018,Michaelport,Australia,Kiosk,2024-03-01,69461.26,Beverage,4.81,521
+1018,Michaelport,Australia,Kiosk,2024-04-01,82382.25,Beverage,8.36,361
+1018,Michaelport,Australia,Kiosk,2024-05-01,85812.91,Merchandise,7.94,403
+1018,Michaelport,Australia,Kiosk,2024-06-01,35058.2,Food,7.56,838
+1018,Michaelport,Australia,Kiosk,2024-07-01,51218.59,Beverage,9.01,480
+1018,Michaelport,Australia,Kiosk,2024-08-01,98172.85,Beverage,5.08,801
+1018,Michaelport,Australia,Kiosk,2024-09-01,52486.18,Beverage,9.26,972
+1018,Michaelport,Australia,Kiosk,2024-10-01,78855.36,Beverage,8.07,105
+1018,Michaelport,Australia,Kiosk,2024-11-01,48034.41,Food,8.73,566
+1018,Michaelport,Australia,Kiosk,2024-12-01,47310.97,Beverage,6.41,339
+1019,East Emily,China,Drive-Thru,2024-01-01,87357.87,Food,9.22,987
+1019,East Emily,China,Drive-Thru,2024-02-01,84158.73,Merchandise,5.88,449
+1019,East Emily,China,Drive-Thru,2024-03-01,27859.17,Food,7.14,181
+1019,East Emily,China,Drive-Thru,2024-04-01,43578.47,Merchandise,7.74,753
+1019,East Emily,China,Drive-Thru,2024-05-01,98251.06,Food,8.04,557
+1019,East Emily,China,Drive-Thru,2024-06-01,98592.5,Merchandise,9.01,930
+1019,East Emily,China,Drive-Thru,2024-07-01,47966.35,Merchandise,9.6,523
+1019,East Emily,China,Drive-Thru,2024-08-01,67970.95,Merchandise,10.23,126
+1019,East Emily,China,Drive-Thru,2024-09-01,99051.07,Merchandise,5.1,656
+1019,East Emily,China,Drive-Thru,2024-10-01,74204.8,Food,5.72,989
+1019,East Emily,China,Drive-Thru,2024-11-01,55164.89,Merchandise,9.66,670
+1019,East Emily,China,Drive-Thru,2024-12-01,57177.05,Food,6.6,334
+1020,Smithbury,Australia,Drive-Thru,2024-01-01,94763.28,Beverage,6.94,734
+1020,Smithbury,Australia,Drive-Thru,2024-02-01,39071.65,Beverage,6.54,218
+1020,Smithbury,Australia,Drive-Thru,2024-03-01,64363.55,Merchandise,7.33,414
+1020,Smithbury,Australia,Drive-Thru,2024-04-01,33441.14,Merchandise,10.17,585
+1020,Smithbury,Australia,Drive-Thru,2024-05-01,70983.77,Merchandise,5.99,930
+1020,Smithbury,Australia,Drive-Thru,2024-06-01,97627.96,Merchandise,10.49,106
+1020,Smithbury,Australia,Drive-Thru,2024-07-01,43583.34,Beverage,10.17,746
+1020,Smithbury,Australia,Drive-Thru,2024-08-01,59522.44,Food,4.93,839
+1020,Smithbury,Australia,Drive-Thru,2024-09-01,99563.86,Merchandise,10.03,676
+1020,Smithbury,Australia,Drive-Thru,2024-10-01,95000.55,Food,10.1,472
+1020,Smithbury,Australia,Drive-Thru,2024-11-01,38748.51,Beverage,7.25,952
+1020,Smithbury,Australia,Drive-Thru,2024-12-01,48742.19,Merchandise,9.42,816
+1021,Lake Virginiatown,UK,Kiosk,2024-01-01,74546.4,Beverage,7.01,351
+1021,Lake Virginiatown,UK,Kiosk,2024-02-01,40894.87,Merchandise,8.72,458
+1021,Lake Virginiatown,UK,Kiosk,2024-03-01,56305.35,Beverage,9.77,675
+1021,Lake Virginiatown,UK,Kiosk,2024-04-01,89926.64,Beverage,9.75,185
+1021,Lake Virginiatown,UK,Kiosk,2024-05-01,86718.51,Merchandise,5.46,607
+1021,Lake Virginiatown,UK,Kiosk,2024-06-01,47702.11,Food,9.1,961
+1021,Lake Virginiatown,UK,Kiosk,2024-07-01,24107.9,Beverage,5.11,729
+1021,Lake Virginiatown,UK,Kiosk,2024-08-01,39422.55,Food,7.41,257
+1021,Lake Virginiatown,UK,Kiosk,2024-09-01,28667.38,Food,9.12,959
+1021,Lake Virginiatown,UK,Kiosk,2024-10-01,64123.68,Beverage,9.39,530
+1021,Lake Virginiatown,UK,Kiosk,2024-11-01,92893.32,Merchandise,9.87,277
+1021,Lake Virginiatown,UK,Kiosk,2024-12-01,29313.39,Beverage,5.19,873
+1022,Kimport,Australia,Drive-Thru,2024-01-01,50792.67,Food,6.76,587
+1022,Kimport,Australia,Drive-Thru,2024-02-01,62413.65,Merchandise,8.81,304
+1022,Kimport,Australia,Drive-Thru,2024-03-01,55969.64,Beverage,8.65,317
+1022,Kimport,Australia,Drive-Thru,2024-04-01,71858.43,Merchandise,9.62,504
+1022,Kimport,Australia,Drive-Thru,2024-05-01,95422.46,Food,9.35,449
+1022,Kimport,Australia,Drive-Thru,2024-06-01,23971.56,Beverage,6.34,916
+1022,Kimport,Australia,Drive-Thru,2024-07-01,94787.1,Food,10.34,785
+1022,Kimport,Australia,Drive-Thru,2024-08-01,81242.83,Food,7.16,103
+1022,Kimport,Australia,Drive-Thru,2024-09-01,25438.96,Merchandise,6.69,227
+1022,Kimport,Australia,Drive-Thru,2024-10-01,22682.45,Beverage,8.75,351
+1022,Kimport,Australia,Drive-Thru,2024-11-01,66360.55,Beverage,9.46,893
+1022,Kimport,Australia,Drive-Thru,2024-12-01,55508.59,Merchandise,5.81,612
+1023,Hillside,UK,Kiosk,2024-01-01,97213.31,Beverage,7.81,542
+1023,Hillside,UK,Kiosk,2024-02-01,55302.53,Merchandise,8.63,892
+1023,Hillside,UK,Kiosk,2024-03-01,33634.49,Merchandise,8.95,915
+1023,Hillside,UK,Kiosk,2024-04-01,64281.68,Beverage,6.39,285
+1023,Hillside,UK,Kiosk,2024-05-01,23564.87,Beverage,7.77,228
+1023,Hillside,UK,Kiosk,2024-06-01,71018.29,Food,7.6,891
+1023,Hillside,UK,Kiosk,2024-07-01,75449.76,Merchandise,6.08,142
+1023,Hillside,UK,Kiosk,2024-08-01,34618.96,Merchandise,9.58,790
+1023,Hillside,UK,Kiosk,2024-09-01,27002.95,Beverage,4.57,394
+1023,Hillside,UK,Kiosk,2024-10-01,78534.37,Merchandise,6.72,913
+1023,Hillside,UK,Kiosk,2024-11-01,66652.32,Food,10.23,758
+1023,Hillside,UK,Kiosk,2024-12-01,84390.34,Beverage,6.55,985
+1024,Ryanchester,UK,Kiosk,2024-01-01,27457.81,Merchandise,7.39,416
+1024,Ryanchester,UK,Kiosk,2024-02-01,86644.47,Merchandise,9.23,249
+1024,Ryanchester,UK,Kiosk,2024-03-01,91987.66,Food,9.5,999
+1024,Ryanchester,UK,Kiosk,2024-04-01,53980.32,Food,6.02,501
+1024,Ryanchester,UK,Kiosk,2024-05-01,53759.63,Food,8.09,799
+1024,Ryanchester,UK,Kiosk,2024-06-01,66629.81,Beverage,9.6,778
+1024,Ryanchester,UK,Kiosk,2024-07-01,38856.05,Beverage,10.16,776
+1024,Ryanchester,UK,Kiosk,2024-08-01,62057.76,Merchandise,5.31,299
+1024,Ryanchester,UK,Kiosk,2024-09-01,89113.11,Food,9.69,989
+1024,Ryanchester,UK,Kiosk,2024-10-01,75353.52,Beverage,5.59,664
+1024,Ryanchester,UK,Kiosk,2024-11-01,27659.99,Beverage,4.94,932
+1024,Ryanchester,UK,Kiosk,2024-12-01,25533.18,Beverage,8.13,603
+1025,South Katherine,France,Cafe,2024-01-01,91526.15,Merchandise,6.32,536
+1025,South Katherine,France,Cafe,2024-02-01,72354.42,Food,8.96,486
+1025,South Katherine,France,Cafe,2024-03-01,22213.6,Food,4.81,164
+1025,South Katherine,France,Cafe,2024-04-01,40629.21,Food,9.89,969
+1025,South Katherine,France,Cafe,2024-05-01,21773.58,Beverage,9.58,449
+1025,South Katherine,France,Cafe,2024-06-01,21897.24,Beverage,5.35,673
+1025,South Katherine,France,Cafe,2024-07-01,42132.74,Merchandise,7.35,808
+1025,South Katherine,France,Cafe,2024-08-01,62934.05,Food,5.07,166
+1025,South Katherine,France,Cafe,2024-09-01,89435.71,Merchandise,4.89,106
+1025,South Katherine,France,Cafe,2024-10-01,95247.35,Food,8.87,210
+1025,South Katherine,France,Cafe,2024-11-01,88936.98,Beverage,6.38,882
+1025,South Katherine,France,Cafe,2024-12-01,84797.59,Food,7.57,577
+1026,South Michael,Canada,Cafe,2024-01-01,92026.56,Food,10.16,581
+1026,South Michael,Canada,Cafe,2024-02-01,25544.56,Merchandise,6.08,842
+1026,South Michael,Canada,Cafe,2024-03-01,88892.44,Food,10.2,788
+1026,South Michael,Canada,Cafe,2024-04-01,24672.63,Merchandise,4.82,459
+1026,South Michael,Canada,Cafe,2024-05-01,20830.37,Merchandise,5.97,705
+1026,South Michael,Canada,Cafe,2024-06-01,51137.39,Food,7.01,875
+1026,South Michael,Canada,Cafe,2024-07-01,58539.12,Beverage,5.4,218
+1026,South Michael,Canada,Cafe,2024-08-01,91142.38,Merchandise,7.75,118
+1026,South Michael,Canada,Cafe,2024-09-01,79739.82,Beverage,5.87,791
+1026,South Michael,Canada,Cafe,2024-10-01,34851.21,Beverage,8.41,893
+1026,South Michael,Canada,Cafe,2024-11-01,25398.01,Merchandise,7.67,303
+1026,South Michael,Canada,Cafe,2024-12-01,86114.56,Beverage,7.36,725
+1027,West Claudia,Australia,Cafe,2024-01-01,70190.37,Food,8.71,408
+1027,West Claudia,Australia,Cafe,2024-02-01,36737.11,Merchandise,7.19,864
+1027,West Claudia,Australia,Cafe,2024-03-01,85830.74,Merchandise,9.08,737
+1027,West Claudia,Australia,Cafe,2024-04-01,32860.38,Beverage,8.02,669
+1027,West Claudia,Australia,Cafe,2024-05-01,53109.68,Merchandise,4.57,202
+1027,West Claudia,Australia,Cafe,2024-06-01,56996.66,Beverage,7.68,329
+1027,West Claudia,Australia,Cafe,2024-07-01,98923.27,Food,5.06,515
+1027,West Claudia,Australia,Cafe,2024-08-01,28164.08,Food,10.08,669
+1027,West Claudia,Australia,Cafe,2024-09-01,45337.1,Merchandise,4.81,826
+1027,West Claudia,Australia,Cafe,2024-10-01,54701.13,Beverage,5.12,202
+1027,West Claudia,Australia,Cafe,2024-11-01,61087.74,Food,10.32,487
+1027,West Claudia,Australia,Cafe,2024-12-01,57995.21,Food,7.13,775
+1028,West Colinfort,Germany,Kiosk,2024-01-01,60437.78,Food,6.22,555
+1028,West Colinfort,Germany,Kiosk,2024-02-01,48467.84,Beverage,7.97,809
+1028,West Colinfort,Germany,Kiosk,2024-03-01,50849.47,Food,5.99,169
+1028,West Colinfort,Germany,Kiosk,2024-04-01,54558.68,Food,8.04,594
+1028,West Colinfort,Germany,Kiosk,2024-05-01,55930.73,Beverage,8.99,574
+1028,West Colinfort,Germany,Kiosk,2024-06-01,22930.72,Beverage,6.7,469
+1028,West Colinfort,Germany,Kiosk,2024-07-01,26066.64,Beverage,5.5,705
+1028,West Colinfort,Germany,Kiosk,2024-08-01,47687.07,Merchandise,7.85,984
+1028,West Colinfort,Germany,Kiosk,2024-09-01,20664.59,Merchandise,5.47,905
+1028,West Colinfort,Germany,Kiosk,2024-10-01,54356.86,Food,10.47,181
+1028,West Colinfort,Germany,Kiosk,2024-11-01,23102.92,Beverage,7.76,385
+1028,West Colinfort,Germany,Kiosk,2024-12-01,85473.24,Merchandise,7.56,717
+1029,Jonesview,Japan,Kiosk,2024-01-01,23496.8,Food,10.33,135
+1029,Jonesview,Japan,Kiosk,2024-02-01,64538.93,Beverage,5.46,878
+1029,Jonesview,Japan,Kiosk,2024-03-01,78683.32,Merchandise,7.26,294
+1029,Jonesview,Japan,Kiosk,2024-04-01,27466.26,Merchandise,9.57,441
+1029,Jonesview,Japan,Kiosk,2024-05-01,23553.04,Food,9.9,957
+1029,Jonesview,Japan,Kiosk,2024-06-01,95730.56,Merchandise,9.09,974
+1029,Jonesview,Japan,Kiosk,2024-07-01,28763.75,Merchandise,5.65,454
+1029,Jonesview,Japan,Kiosk,2024-08-01,70952.33,Merchandise,6.85,301
+1029,Jonesview,Japan,Kiosk,2024-09-01,26568.24,Beverage,10.1,680
+1029,Jonesview,Japan,Kiosk,2024-10-01,53589.43,Merchandise,5.69,915
+1029,Jonesview,Japan,Kiosk,2024-11-01,22325.97,Merchandise,5.05,228
+1029,Jonesview,Japan,Kiosk,2024-12-01,46726.0,Beverage,4.79,963
+1030,Lake Bailey,France,Cafe,2024-01-01,46543.44,Food,7.25,643
+1030,Lake Bailey,France,Cafe,2024-02-01,21662.28,Beverage,7.87,209
+1030,Lake Bailey,France,Cafe,2024-03-01,69369.63,Beverage,6.45,255
+1030,Lake Bailey,France,Cafe,2024-04-01,92258.5,Food,8.63,274
+1030,Lake Bailey,France,Cafe,2024-05-01,77019.36,Food,9.49,776
+1030,Lake Bailey,France,Cafe,2024-06-01,21312.28,Merchandise,9.35,472
+1030,Lake Bailey,France,Cafe,2024-07-01,79515.7,Food,6.33,236
+1030,Lake Bailey,France,Cafe,2024-08-01,20693.32,Beverage,6.12,128
+1030,Lake Bailey,France,Cafe,2024-09-01,89672.56,Merchandise,5.54,863
+1030,Lake Bailey,France,Cafe,2024-10-01,23966.81,Beverage,6.66,271
+1030,Lake Bailey,France,Cafe,2024-11-01,72297.74,Food,5.45,121
+1030,Lake Bailey,France,Cafe,2024-12-01,62713.55,Beverage,9.23,407
+1031,South Kimberly,Canada,Cafe,2024-01-01,88615.01,Beverage,8.63,954
+1031,South Kimberly,Canada,Cafe,2024-02-01,99191.22,Merchandise,4.83,612
+1031,South Kimberly,Canada,Cafe,2024-03-01,77352.1,Food,7.77,637
+1031,South Kimberly,Canada,Cafe,2024-04-01,56224.99,Beverage,5.77,561
+1031,South Kimberly,Canada,Cafe,2024-05-01,20398.44,Beverage,7.11,754
+1031,South Kimberly,Canada,Cafe,2024-06-01,25006.27,Beverage,8.46,559
+1031,South Kimberly,Canada,Cafe,2024-07-01,59162.48,Beverage,8.07,647
+1031,South Kimberly,Canada,Cafe,2024-08-01,39579.39,Beverage,8.36,391
+1031,South Kimberly,Canada,Cafe,2024-09-01,70696.62,Beverage,7.55,924
+1031,South Kimberly,Canada,Cafe,2024-10-01,37048.17,Beverage,6.31,520
+1031,South Kimberly,Canada,Cafe,2024-11-01,33061.23,Food,6.0,696
+1031,South Kimberly,Canada,Cafe,2024-12-01,87579.34,Merchandise,5.45,130
+1032,Moranmouth,Brazil,Cafe,2024-01-01,66561.45,Merchandise,9.78,371
+1032,Moranmouth,Brazil,Cafe,2024-02-01,95567.33,Merchandise,10.18,454
+1032,Moranmouth,Brazil,Cafe,2024-03-01,59890.98,Food,7.42,353
+1032,Moranmouth,Brazil,Cafe,2024-04-01,96308.67,Beverage,9.85,274
+1032,Moranmouth,Brazil,Cafe,2024-05-01,65965.62,Beverage,5.98,801
+1032,Moranmouth,Brazil,Cafe,2024-06-01,41989.52,Food,5.24,813
+1032,Moranmouth,Brazil,Cafe,2024-07-01,65987.59,Beverage,4.52,975
+1032,Moranmouth,Brazil,Cafe,2024-08-01,36449.5,Beverage,8.33,463
+1032,Moranmouth,Brazil,Cafe,2024-09-01,24407.27,Beverage,6.13,586
+1032,Moranmouth,Brazil,Cafe,2024-10-01,42350.02,Beverage,9.53,692
+1032,Moranmouth,Brazil,Cafe,2024-11-01,92383.77,Merchandise,6.41,596
+1032,Moranmouth,Brazil,Cafe,2024-12-01,79600.78,Beverage,5.74,468
+1033,Amandafurt,USA,Kiosk,2024-01-01,54577.96,Food,8.01,661
+1033,Amandafurt,USA,Kiosk,2024-02-01,39150.12,Merchandise,9.85,416
+1033,Amandafurt,USA,Kiosk,2024-03-01,78729.86,Beverage,10.09,969
+1033,Amandafurt,USA,Kiosk,2024-04-01,99995.0,Food,5.36,111
+1033,Amandafurt,USA,Kiosk,2024-05-01,99259.86,Food,4.58,596
+1033,Amandafurt,USA,Kiosk,2024-06-01,63350.3,Food,10.01,193
+1033,Amandafurt,USA,Kiosk,2024-07-01,73638.3,Food,7.95,775
+1033,Amandafurt,USA,Kiosk,2024-08-01,31765.11,Beverage,8.65,911
+1033,Amandafurt,USA,Kiosk,2024-09-01,73947.22,Merchandise,9.81,842
+1033,Amandafurt,USA,Kiosk,2024-10-01,73602.57,Food,6.58,801
+1033,Amandafurt,USA,Kiosk,2024-11-01,45685.36,Beverage,6.69,823
+1033,Amandafurt,USA,Kiosk,2024-12-01,25470.03,Beverage,8.56,706
+1034,North Joseph,France,Drive-Thru,2024-01-01,95792.52,Merchandise,5.45,394
+1034,North Joseph,France,Drive-Thru,2024-02-01,99695.55,Merchandise,10.32,723
+1034,North Joseph,France,Drive-Thru,2024-03-01,42487.81,Food,8.46,351
+1034,North Joseph,France,Drive-Thru,2024-04-01,92111.41,Beverage,5.09,525
+1034,North Joseph,France,Drive-Thru,2024-05-01,92555.03,Merchandise,7.98,520
+1034,North Joseph,France,Drive-Thru,2024-06-01,60352.5,Merchandise,5.49,179
+1034,North Joseph,France,Drive-Thru,2024-07-01,79293.81,Merchandise,10.01,362
+1034,North Joseph,France,Drive-Thru,2024-08-01,93136.1,Merchandise,5.98,677
+1034,North Joseph,France,Drive-Thru,2024-09-01,96777.33,Beverage,8.23,527
+1034,North Joseph,France,Drive-Thru,2024-10-01,38700.09,Merchandise,10.48,756
+1034,North Joseph,France,Drive-Thru,2024-11-01,81057.92,Merchandise,8.82,416
+1034,North Joseph,France,Drive-Thru,2024-12-01,53476.72,Food,9.18,645
+1035,South Calvin,USA,Cafe,2024-01-01,72039.87,Merchandise,9.71,267
+1035,South Calvin,USA,Cafe,2024-02-01,32571.79,Merchandise,4.58,899
+1035,South Calvin,USA,Cafe,2024-03-01,65218.86,Beverage,10.3,101
+1035,South Calvin,USA,Cafe,2024-04-01,31076.18,Merchandise,6.32,566
+1035,South Calvin,USA,Cafe,2024-05-01,22568.34,Food,6.08,723
+1035,South Calvin,USA,Cafe,2024-06-01,79355.46,Merchandise,5.41,637
+1035,South Calvin,USA,Cafe,2024-07-01,30004.79,Food,5.1,979
+1035,South Calvin,USA,Cafe,2024-08-01,71320.29,Beverage,4.93,518
+1035,South Calvin,USA,Cafe,2024-09-01,72449.99,Food,7.71,607
+1035,South Calvin,USA,Cafe,2024-10-01,32256.43,Beverage,6.51,957
+1035,South Calvin,USA,Cafe,2024-11-01,69959.7,Beverage,8.25,879
+1035,South Calvin,USA,Cafe,2024-12-01,89844.2,Food,6.48,291
+1036,New Anthonymouth,India,Drive-Thru,2024-01-01,47855.44,Beverage,4.51,289
+1036,New Anthonymouth,India,Drive-Thru,2024-02-01,64773.17,Beverage,4.72,120
+1036,New Anthonymouth,India,Drive-Thru,2024-03-01,91695.65,Food,7.79,704
+1036,New Anthonymouth,India,Drive-Thru,2024-04-01,92834.76,Food,9.86,890
+1036,New Anthonymouth,India,Drive-Thru,2024-05-01,82391.77,Food,8.58,907
+1036,New Anthonymouth,India,Drive-Thru,2024-06-01,56481.53,Beverage,7.56,549
+1036,New Anthonymouth,India,Drive-Thru,2024-07-01,76752.27,Merchandise,7.7,965
+1036,New Anthonymouth,India,Drive-Thru,2024-08-01,30502.43,Food,5.6,291
+1036,New Anthonymouth,India,Drive-Thru,2024-09-01,26066.7,Merchandise,6.66,386
+1036,New Anthonymouth,India,Drive-Thru,2024-10-01,94786.46,Food,8.2,834
+1036,New Anthonymouth,India,Drive-Thru,2024-11-01,43509.26,Merchandise,7.42,132
+1036,New Anthonymouth,India,Drive-Thru,2024-12-01,71000.9,Merchandise,8.14,881
+1037,Santanaton,Brazil,Kiosk,2024-01-01,68023.32,Beverage,7.28,230
+1037,Santanaton,Brazil,Kiosk,2024-02-01,27981.66,Beverage,7.58,461
+1037,Santanaton,Brazil,Kiosk,2024-03-01,77359.43,Beverage,9.78,246
+1037,Santanaton,Brazil,Kiosk,2024-04-01,38150.61,Food,10.07,803
+1037,Santanaton,Brazil,Kiosk,2024-05-01,83623.9,Food,5.63,529
+1037,Santanaton,Brazil,Kiosk,2024-06-01,75195.52,Merchandise,6.27,205
+1037,Santanaton,Brazil,Kiosk,2024-07-01,43955.57,Food,6.14,390
+1037,Santanaton,Brazil,Kiosk,2024-08-01,21366.78,Merchandise,6.44,440
+1037,Santanaton,Brazil,Kiosk,2024-09-01,97535.33,Beverage,7.57,450
+1037,Santanaton,Brazil,Kiosk,2024-10-01,60616.71,Food,6.08,813
+1037,Santanaton,Brazil,Kiosk,2024-11-01,83481.72,Food,7.15,947
+1037,Santanaton,Brazil,Kiosk,2024-12-01,25937.36,Merchandise,4.64,772
+1038,New Christina,Brazil,Drive-Thru,2024-01-01,73239.96,Food,9.2,224
+1038,New Christina,Brazil,Drive-Thru,2024-02-01,28360.76,Beverage,7.73,111
+1038,New Christina,Brazil,Drive-Thru,2024-03-01,72821.78,Merchandise,9.16,991
+1038,New Christina,Brazil,Drive-Thru,2024-04-01,66050.19,Merchandise,5.24,817
+1038,New Christina,Brazil,Drive-Thru,2024-05-01,33766.41,Food,7.66,231
+1038,New Christina,Brazil,Drive-Thru,2024-06-01,64454.75,Merchandise,7.62,858
+1038,New Christina,Brazil,Drive-Thru,2024-07-01,40887.27,Beverage,8.36,716
+1038,New Christina,Brazil,Drive-Thru,2024-08-01,20035.89,Food,10.28,976
+1038,New Christina,Brazil,Drive-Thru,2024-09-01,51143.93,Beverage,7.3,479
+1038,New Christina,Brazil,Drive-Thru,2024-10-01,46331.98,Merchandise,8.42,564
+1038,New Christina,Brazil,Drive-Thru,2024-11-01,59469.39,Food,7.66,542
+1038,New Christina,Brazil,Drive-Thru,2024-12-01,75841.1,Merchandise,8.24,130
+1039,North Keith,Japan,Drive-Thru,2024-01-01,82746.76,Beverage,9.1,716
+1039,North Keith,Japan,Drive-Thru,2024-02-01,51701.9,Merchandise,4.96,500
+1039,North Keith,Japan,Drive-Thru,2024-03-01,95915.2,Merchandise,9.14,865
+1039,North Keith,Japan,Drive-Thru,2024-04-01,82290.85,Beverage,8.88,273
+1039,North Keith,Japan,Drive-Thru,2024-05-01,75889.81,Merchandise,8.03,803
+1039,North Keith,Japan,Drive-Thru,2024-06-01,75912.55,Beverage,8.88,312
+1039,North Keith,Japan,Drive-Thru,2024-07-01,88051.53,Beverage,7.49,827
+1039,North Keith,Japan,Drive-Thru,2024-08-01,78559.63,Food,10.1,616
+1039,North Keith,Japan,Drive-Thru,2024-09-01,82376.17,Merchandise,8.77,513
+1039,North Keith,Japan,Drive-Thru,2024-10-01,77118.31,Merchandise,6.51,584
+1039,North Keith,Japan,Drive-Thru,2024-11-01,97638.74,Merchandise,5.89,768
+1039,North Keith,Japan,Drive-Thru,2024-12-01,37830.24,Beverage,9.61,835
+1040,Nguyenview,Canada,Cafe,2024-01-01,58472.31,Merchandise,6.37,514
+1040,Nguyenview,Canada,Cafe,2024-02-01,72807.32,Food,7.19,824
+1040,Nguyenview,Canada,Cafe,2024-03-01,27462.7,Beverage,8.28,510
+1040,Nguyenview,Canada,Cafe,2024-04-01,91182.35,Merchandise,6.24,803
+1040,Nguyenview,Canada,Cafe,2024-05-01,44018.7,Beverage,8.9,347
+1040,Nguyenview,Canada,Cafe,2024-06-01,90820.97,Merchandise,9.32,662
+1040,Nguyenview,Canada,Cafe,2024-07-01,80406.8,Merchandise,7.5,812
+1040,Nguyenview,Canada,Cafe,2024-08-01,33441.92,Beverage,6.61,687
+1040,Nguyenview,Canada,Cafe,2024-09-01,50920.7,Merchandise,4.85,676
+1040,Nguyenview,Canada,Cafe,2024-10-01,87037.32,Merchandise,8.21,507
+1040,Nguyenview,Canada,Cafe,2024-11-01,98360.96,Merchandise,5.39,456
+1040,Nguyenview,Canada,Cafe,2024-12-01,75884.41,Merchandise,4.64,483
+1041,Raymondbury,China,Drive-Thru,2024-01-01,23926.67,Merchandise,5.87,225
+1041,Raymondbury,China,Drive-Thru,2024-02-01,31250.11,Merchandise,5.91,966
+1041,Raymondbury,China,Drive-Thru,2024-03-01,74791.25,Beverage,9.85,351
+1041,Raymondbury,China,Drive-Thru,2024-04-01,73309.02,Food,10.23,925
+1041,Raymondbury,China,Drive-Thru,2024-05-01,97376.9,Food,6.77,721
+1041,Raymondbury,China,Drive-Thru,2024-06-01,89530.14,Merchandise,9.94,393
+1041,Raymondbury,China,Drive-Thru,2024-07-01,82991.29,Merchandise,9.16,867
+1041,Raymondbury,China,Drive-Thru,2024-08-01,71877.02,Merchandise,7.31,543
+1041,Raymondbury,China,Drive-Thru,2024-09-01,36568.16,Beverage,5.89,248
+1041,Raymondbury,China,Drive-Thru,2024-10-01,97022.32,Merchandise,4.6,927
+1041,Raymondbury,China,Drive-Thru,2024-11-01,74314.53,Beverage,6.44,945
+1041,Raymondbury,China,Drive-Thru,2024-12-01,55867.84,Merchandise,6.06,140
+1042,Port Paulport,Australia,Kiosk,2024-01-01,85398.92,Food,5.79,471
+1042,Port Paulport,Australia,Kiosk,2024-02-01,74338.71,Merchandise,6.62,392
+1042,Port Paulport,Australia,Kiosk,2024-03-01,47586.61,Beverage,8.09,889
+1042,Port Paulport,Australia,Kiosk,2024-04-01,39448.39,Merchandise,5.44,813
+1042,Port Paulport,Australia,Kiosk,2024-05-01,48809.68,Merchandise,4.95,763
+1042,Port Paulport,Australia,Kiosk,2024-06-01,26561.98,Merchandise,6.33,839
+1042,Port Paulport,Australia,Kiosk,2024-07-01,26267.88,Food,6.44,306
+1042,Port Paulport,Australia,Kiosk,2024-08-01,65404.14,Beverage,5.79,903
+1042,Port Paulport,Australia,Kiosk,2024-09-01,35419.37,Merchandise,9.77,989
+1042,Port Paulport,Australia,Kiosk,2024-10-01,89819.36,Food,5.35,914
+1042,Port Paulport,Australia,Kiosk,2024-11-01,62718.75,Food,7.57,286
+1042,Port Paulport,Australia,Kiosk,2024-12-01,66901.55,Food,7.03,114
+1043,Alexborough,Germany,Drive-Thru,2024-01-01,79026.81,Merchandise,4.96,951
+1043,Alexborough,Germany,Drive-Thru,2024-02-01,34536.5,Beverage,5.7,382
+1043,Alexborough,Germany,Drive-Thru,2024-03-01,75383.23,Merchandise,9.15,744
+1043,Alexborough,Germany,Drive-Thru,2024-04-01,92651.96,Food,7.54,890
+1043,Alexborough,Germany,Drive-Thru,2024-05-01,47231.37,Food,9.63,856
+1043,Alexborough,Germany,Drive-Thru,2024-06-01,93470.08,Beverage,7.04,743
+1043,Alexborough,Germany,Drive-Thru,2024-07-01,89262.08,Food,5.54,190
+1043,Alexborough,Germany,Drive-Thru,2024-08-01,32303.17,Beverage,10.34,692
+1043,Alexborough,Germany,Drive-Thru,2024-09-01,32250.15,Merchandise,5.32,786
+1043,Alexborough,Germany,Drive-Thru,2024-10-01,82486.85,Merchandise,10.49,605
+1043,Alexborough,Germany,Drive-Thru,2024-11-01,99608.96,Beverage,6.62,652
+1043,Alexborough,Germany,Drive-Thru,2024-12-01,74706.33,Food,6.32,175
+1044,Port Alexside,UK,Drive-Thru,2024-01-01,82694.56,Merchandise,5.56,173
+1044,Port Alexside,UK,Drive-Thru,2024-02-01,21547.12,Beverage,9.37,988
+1044,Port Alexside,UK,Drive-Thru,2024-03-01,25191.97,Food,6.29,305
+1044,Port Alexside,UK,Drive-Thru,2024-04-01,53807.01,Beverage,5.2,340
+1044,Port Alexside,UK,Drive-Thru,2024-05-01,73598.22,Merchandise,6.43,850
+1044,Port Alexside,UK,Drive-Thru,2024-06-01,34684.93,Merchandise,7.41,488
+1044,Port Alexside,UK,Drive-Thru,2024-07-01,71695.68,Merchandise,5.82,324
+1044,Port Alexside,UK,Drive-Thru,2024-08-01,80166.11,Food,6.39,502
+1044,Port Alexside,UK,Drive-Thru,2024-09-01,42051.63,Food,5.73,510
+1044,Port Alexside,UK,Drive-Thru,2024-10-01,94224.69,Merchandise,7.44,562
+1044,Port Alexside,UK,Drive-Thru,2024-11-01,33126.23,Food,10.33,624
+1044,Port Alexside,UK,Drive-Thru,2024-12-01,39020.47,Beverage,6.79,825
+1045,Tammyfort,USA,Kiosk,2024-01-01,95611.26,Merchandise,5.17,750
+1045,Tammyfort,USA,Kiosk,2024-02-01,72401.13,Beverage,7.47,865
+1045,Tammyfort,USA,Kiosk,2024-03-01,34298.24,Merchandise,4.76,967
+1045,Tammyfort,USA,Kiosk,2024-04-01,57398.29,Food,5.78,436
+1045,Tammyfort,USA,Kiosk,2024-05-01,74585.27,Merchandise,6.72,670
+1045,Tammyfort,USA,Kiosk,2024-06-01,47678.34,Merchandise,6.13,151
+1045,Tammyfort,USA,Kiosk,2024-07-01,38305.73,Merchandise,6.21,600
+1045,Tammyfort,USA,Kiosk,2024-08-01,31164.88,Beverage,6.17,516
+1045,Tammyfort,USA,Kiosk,2024-09-01,35185.81,Food,4.96,536
+1045,Tammyfort,USA,Kiosk,2024-10-01,55205.11,Merchandise,6.81,115
+1045,Tammyfort,USA,Kiosk,2024-11-01,94413.77,Food,9.95,903
+1045,Tammyfort,USA,Kiosk,2024-12-01,57431.31,Food,7.31,433
+1046,South Andrea,China,Drive-Thru,2024-01-01,42952.96,Food,5.34,353
+1046,South Andrea,China,Drive-Thru,2024-02-01,33060.85,Merchandise,7.62,306
+1046,South Andrea,China,Drive-Thru,2024-03-01,86502.27,Beverage,6.96,744
+1046,South Andrea,China,Drive-Thru,2024-04-01,84904.13,Beverage,10.29,433
+1046,South Andrea,China,Drive-Thru,2024-05-01,76564.7,Food,7.08,477
+1046,South Andrea,China,Drive-Thru,2024-06-01,21815.28,Food,9.49,729
+1046,South Andrea,China,Drive-Thru,2024-07-01,34623.61,Beverage,10.11,907
+1046,South Andrea,China,Drive-Thru,2024-08-01,84705.12,Food,8.24,965
+1046,South Andrea,China,Drive-Thru,2024-09-01,37993.65,Food,9.87,118
+1046,South Andrea,China,Drive-Thru,2024-10-01,75672.57,Merchandise,8.73,339
+1046,South Andrea,China,Drive-Thru,2024-11-01,50572.69,Merchandise,7.57,270
+1046,South Andrea,China,Drive-Thru,2024-12-01,56364.0,Food,7.52,500
+1047,Port Garyborough,USA,Kiosk,2024-01-01,86209.24,Food,9.08,360
+1047,Port Garyborough,USA,Kiosk,2024-02-01,95346.58,Beverage,5.04,419
+1047,Port Garyborough,USA,Kiosk,2024-03-01,86323.85,Merchandise,7.74,488
+1047,Port Garyborough,USA,Kiosk,2024-04-01,63907.44,Beverage,7.37,569
+1047,Port Garyborough,USA,Kiosk,2024-05-01,71188.94,Beverage,6.85,317
+1047,Port Garyborough,USA,Kiosk,2024-06-01,72544.87,Merchandise,6.63,251
+1047,Port Garyborough,USA,Kiosk,2024-07-01,83655.87,Merchandise,9.97,939
+1047,Port Garyborough,USA,Kiosk,2024-08-01,57349.46,Merchandise,5.96,496
+1047,Port Garyborough,USA,Kiosk,2024-09-01,86491.47,Beverage,7.69,816
+1047,Port Garyborough,USA,Kiosk,2024-10-01,90305.99,Beverage,6.84,436
+1047,Port Garyborough,USA,Kiosk,2024-11-01,47961.81,Beverage,6.61,533
+1047,Port Garyborough,USA,Kiosk,2024-12-01,63361.86,Beverage,7.49,869
+1048,Jasonberg,China,Cafe,2024-01-01,97521.3,Food,7.48,377
+1048,Jasonberg,China,Cafe,2024-02-01,35323.38,Food,6.95,992
+1048,Jasonberg,China,Cafe,2024-03-01,28055.12,Merchandise,6.46,388
+1048,Jasonberg,China,Cafe,2024-04-01,63793.23,Beverage,5.19,282
+1048,Jasonberg,China,Cafe,2024-05-01,43314.98,Beverage,8.83,869
+1048,Jasonberg,China,Cafe,2024-06-01,93673.22,Merchandise,9.36,373
+1048,Jasonberg,China,Cafe,2024-07-01,99494.34,Food,8.38,397
+1048,Jasonberg,China,Cafe,2024-08-01,78227.04,Merchandise,10.44,498
+1048,Jasonberg,China,Cafe,2024-09-01,36578.21,Food,8.43,866
+1048,Jasonberg,China,Cafe,2024-10-01,59536.42,Food,4.95,360
+1048,Jasonberg,China,Cafe,2024-11-01,68813.61,Beverage,10.19,196
+1048,Jasonberg,China,Cafe,2024-12-01,44231.19,Food,8.76,778
+1049,Clarkbury,Japan,Cafe,2024-01-01,66366.68,Food,10.34,478
+1049,Clarkbury,Japan,Cafe,2024-02-01,21482.92,Food,7.21,124
+1049,Clarkbury,Japan,Cafe,2024-03-01,39071.84,Merchandise,6.7,873
+1049,Clarkbury,Japan,Cafe,2024-04-01,57409.55,Merchandise,7.21,533
+1049,Clarkbury,Japan,Cafe,2024-05-01,58188.03,Food,9.14,129
+1049,Clarkbury,Japan,Cafe,2024-06-01,49552.59,Beverage,7.29,722
+1049,Clarkbury,Japan,Cafe,2024-07-01,43194.68,Beverage,9.05,928
+1049,Clarkbury,Japan,Cafe,2024-08-01,53794.19,Merchandise,7.42,140
+1049,Clarkbury,Japan,Cafe,2024-09-01,96779.38,Merchandise,7.28,763
+1049,Clarkbury,Japan,Cafe,2024-10-01,35130.22,Merchandise,4.54,494
+1049,Clarkbury,Japan,Cafe,2024-11-01,44954.21,Food,8.31,216
+1049,Clarkbury,Japan,Cafe,2024-12-01,81566.82,Beverage,9.82,753
+1050,Lake Robert,Australia,Drive-Thru,2024-01-01,24724.68,Food,6.84,234
+1050,Lake Robert,Australia,Drive-Thru,2024-02-01,82165.7,Merchandise,6.67,582
+1050,Lake Robert,Australia,Drive-Thru,2024-03-01,89843.14,Merchandise,9.1,382
+1050,Lake Robert,Australia,Drive-Thru,2024-04-01,28900.49,Merchandise,6.98,503
+1050,Lake Robert,Australia,Drive-Thru,2024-05-01,68749.91,Merchandise,10.32,663
+1050,Lake Robert,Australia,Drive-Thru,2024-06-01,94649.57,Beverage,7.87,956
+1050,Lake Robert,Australia,Drive-Thru,2024-07-01,29491.29,Food,6.62,875
+1050,Lake Robert,Australia,Drive-Thru,2024-08-01,62292.16,Food,9.67,862
+1050,Lake Robert,Australia,Drive-Thru,2024-09-01,75712.79,Beverage,9.89,623
+1050,Lake Robert,Australia,Drive-Thru,2024-10-01,82922.22,Beverage,9.82,936
+1050,Lake Robert,Australia,Drive-Thru,2024-11-01,41811.85,Food,6.92,844
+1050,Lake Robert,Australia,Drive-Thru,2024-12-01,61525.26,Merchandise,6.29,804
+1051,Jessicaside,Japan,Drive-Thru,2024-01-01,63208.51,Merchandise,7.4,103
+1051,Jessicaside,Japan,Drive-Thru,2024-02-01,74431.67,Food,6.91,791
+1051,Jessicaside,Japan,Drive-Thru,2024-03-01,63372.66,Merchandise,7.74,774
+1051,Jessicaside,Japan,Drive-Thru,2024-04-01,40574.1,Beverage,9.28,141
+1051,Jessicaside,Japan,Drive-Thru,2024-05-01,88753.7,Merchandise,10.1,944
+1051,Jessicaside,Japan,Drive-Thru,2024-06-01,89434.53,Beverage,8.59,639
+1051,Jessicaside,Japan,Drive-Thru,2024-07-01,71646.73,Beverage,4.64,601
+1051,Jessicaside,Japan,Drive-Thru,2024-08-01,37537.08,Merchandise,10.33,796
+1051,Jessicaside,Japan,Drive-Thru,2024-09-01,58715.67,Merchandise,7.86,442
+1051,Jessicaside,Japan,Drive-Thru,2024-10-01,86917.17,Beverage,6.7,569
+1051,Jessicaside,Japan,Drive-Thru,2024-11-01,45825.08,Merchandise,8.32,292
+1051,Jessicaside,Japan,Drive-Thru,2024-12-01,33453.3,Merchandise,8.72,768
+1052,Nancyfurt,Germany,Cafe,2024-01-01,21354.03,Merchandise,4.52,980
+1052,Nancyfurt,Germany,Cafe,2024-02-01,99924.7,Merchandise,5.7,293
+1052,Nancyfurt,Germany,Cafe,2024-03-01,58336.62,Beverage,5.19,670
+1052,Nancyfurt,Germany,Cafe,2024-04-01,98580.36,Beverage,9.39,675
+1052,Nancyfurt,Germany,Cafe,2024-05-01,62811.48,Food,7.17,724
+1052,Nancyfurt,Germany,Cafe,2024-06-01,28135.67,Beverage,4.82,747
+1052,Nancyfurt,Germany,Cafe,2024-07-01,30715.75,Beverage,8.47,559
+1052,Nancyfurt,Germany,Cafe,2024-08-01,87030.96,Beverage,5.34,311
+1052,Nancyfurt,Germany,Cafe,2024-09-01,93598.3,Food,9.02,915
+1052,Nancyfurt,Germany,Cafe,2024-10-01,35543.73,Merchandise,6.86,906
+1052,Nancyfurt,Germany,Cafe,2024-11-01,86472.39,Merchandise,10.3,693
+1052,Nancyfurt,Germany,Cafe,2024-12-01,62084.3,Merchandise,7.11,758
+1053,Port Don,India,Drive-Thru,2024-01-01,92067.29,Beverage,8.93,510
+1053,Port Don,India,Drive-Thru,2024-02-01,30033.93,Beverage,9.26,277
+1053,Port Don,India,Drive-Thru,2024-03-01,52197.2,Food,6.32,264
+1053,Port Don,India,Drive-Thru,2024-04-01,78062.88,Food,4.53,533
+1053,Port Don,India,Drive-Thru,2024-05-01,49075.68,Food,6.92,468
+1053,Port Don,India,Drive-Thru,2024-06-01,73312.01,Merchandise,7.04,370
+1053,Port Don,India,Drive-Thru,2024-07-01,50654.72,Food,8.65,190
+1053,Port Don,India,Drive-Thru,2024-08-01,64691.41,Merchandise,5.96,896
+1053,Port Don,India,Drive-Thru,2024-09-01,46373.62,Beverage,4.98,617
+1053,Port Don,India,Drive-Thru,2024-10-01,21223.14,Beverage,9.73,941
+1053,Port Don,India,Drive-Thru,2024-11-01,99901.57,Merchandise,9.91,602
+1053,Port Don,India,Drive-Thru,2024-12-01,76499.91,Beverage,5.1,642
+1054,Rossshire,Australia,Kiosk,2024-01-01,79692.43,Merchandise,4.78,360
+1054,Rossshire,Australia,Kiosk,2024-02-01,34137.5,Food,5.53,149
+1054,Rossshire,Australia,Kiosk,2024-03-01,40724.93,Merchandise,7.75,360
+1054,Rossshire,Australia,Kiosk,2024-04-01,68552.31,Merchandise,8.09,372
+1054,Rossshire,Australia,Kiosk,2024-05-01,93151.39,Food,6.07,673
+1054,Rossshire,Australia,Kiosk,2024-06-01,44638.6,Merchandise,6.13,800
+1054,Rossshire,Australia,Kiosk,2024-07-01,48500.96,Beverage,8.41,718
+1054,Rossshire,Australia,Kiosk,2024-08-01,46825.81,Beverage,5.92,313
+1054,Rossshire,Australia,Kiosk,2024-09-01,21406.57,Merchandise,6.03,906
+1054,Rossshire,Australia,Kiosk,2024-10-01,28084.21,Food,7.19,540
+1054,Rossshire,Australia,Kiosk,2024-11-01,68387.46,Food,6.15,445
+1054,Rossshire,Australia,Kiosk,2024-12-01,89693.61,Merchandise,8.28,287
+1055,Elizabethmouth,USA,Cafe,2024-01-01,26140.69,Beverage,9.2,825
+1055,Elizabethmouth,USA,Cafe,2024-02-01,75664.42,Merchandise,6.28,482
+1055,Elizabethmouth,USA,Cafe,2024-03-01,95320.31,Beverage,6.13,813
+1055,Elizabethmouth,USA,Cafe,2024-04-01,67211.95,Beverage,6.76,348
+1055,Elizabethmouth,USA,Cafe,2024-05-01,59184.18,Beverage,7.38,892
+1055,Elizabethmouth,USA,Cafe,2024-06-01,59400.65,Beverage,5.5,505
+1055,Elizabethmouth,USA,Cafe,2024-07-01,34186.68,Beverage,6.08,723
+1055,Elizabethmouth,USA,Cafe,2024-08-01,67219.51,Merchandise,5.32,144
+1055,Elizabethmouth,USA,Cafe,2024-09-01,43236.51,Beverage,8.64,950
+1055,Elizabethmouth,USA,Cafe,2024-10-01,58655.45,Beverage,5.12,661
+1055,Elizabethmouth,USA,Cafe,2024-11-01,67193.91,Food,4.92,347
+1055,Elizabethmouth,USA,Cafe,2024-12-01,65260.3,Merchandise,9.84,663
+1056,Vegaview,Australia,Cafe,2024-01-01,21315.08,Merchandise,9.99,626
+1056,Vegaview,Australia,Cafe,2024-02-01,52938.98,Merchandise,9.35,528
+1056,Vegaview,Australia,Cafe,2024-03-01,22869.26,Merchandise,9.15,336
+1056,Vegaview,Australia,Cafe,2024-04-01,46150.3,Food,9.48,399
+1056,Vegaview,Australia,Cafe,2024-05-01,78816.09,Food,8.53,881
+1056,Vegaview,Australia,Cafe,2024-06-01,80319.34,Beverage,5.92,409
+1056,Vegaview,Australia,Cafe,2024-07-01,38174.54,Merchandise,8.01,628
+1056,Vegaview,Australia,Cafe,2024-08-01,52907.43,Merchandise,9.95,787
+1056,Vegaview,Australia,Cafe,2024-09-01,39799.45,Food,9.8,156
+1056,Vegaview,Australia,Cafe,2024-10-01,52784.2,Food,6.71,741
+1056,Vegaview,Australia,Cafe,2024-11-01,77394.91,Beverage,6.49,818
+1056,Vegaview,Australia,Cafe,2024-12-01,45172.97,Beverage,8.67,106
+1057,Brittanymouth,China,Cafe,2024-01-01,84071.04,Food,8.68,228
+1057,Brittanymouth,China,Cafe,2024-02-01,62460.43,Beverage,9.39,824
+1057,Brittanymouth,China,Cafe,2024-03-01,60465.96,Food,5.31,419
+1057,Brittanymouth,China,Cafe,2024-04-01,32970.36,Merchandise,7.38,586
+1057,Brittanymouth,China,Cafe,2024-05-01,69050.87,Food,5.17,690
+1057,Brittanymouth,China,Cafe,2024-06-01,42446.62,Merchandise,8.3,339
+1057,Brittanymouth,China,Cafe,2024-07-01,49580.97,Food,9.57,431
+1057,Brittanymouth,China,Cafe,2024-08-01,41954.22,Beverage,6.12,917
+1057,Brittanymouth,China,Cafe,2024-09-01,49027.31,Beverage,9.54,253
+1057,Brittanymouth,China,Cafe,2024-10-01,33046.2,Beverage,6.79,305
+1057,Brittanymouth,China,Cafe,2024-11-01,52727.53,Beverage,5.93,998
+1057,Brittanymouth,China,Cafe,2024-12-01,40455.48,Food,5.08,764
+1058,Millershire,Brazil,Kiosk,2024-01-01,74486.03,Beverage,5.61,920
+1058,Millershire,Brazil,Kiosk,2024-02-01,40967.73,Merchandise,7.04,923
+1058,Millershire,Brazil,Kiosk,2024-03-01,71725.79,Merchandise,8.15,344
+1058,Millershire,Brazil,Kiosk,2024-04-01,88000.71,Food,7.4,628
+1058,Millershire,Brazil,Kiosk,2024-05-01,77687.74,Beverage,5.85,937
+1058,Millershire,Brazil,Kiosk,2024-06-01,28931.34,Beverage,9.06,273
+1058,Millershire,Brazil,Kiosk,2024-07-01,24765.32,Food,6.52,548
+1058,Millershire,Brazil,Kiosk,2024-08-01,73568.96,Food,6.54,735
+1058,Millershire,Brazil,Kiosk,2024-09-01,44058.98,Merchandise,5.06,243
+1058,Millershire,Brazil,Kiosk,2024-10-01,72242.97,Beverage,7.67,170
+1058,Millershire,Brazil,Kiosk,2024-11-01,44475.05,Food,6.51,877
+1058,Millershire,Brazil,Kiosk,2024-12-01,32953.43,Beverage,6.94,506
+1059,Port Gailfurt,UK,Cafe,2024-01-01,71128.13,Merchandise,4.58,823
+1059,Port Gailfurt,UK,Cafe,2024-02-01,32418.96,Food,4.95,275
+1059,Port Gailfurt,UK,Cafe,2024-03-01,76213.21,Food,5.3,241
+1059,Port Gailfurt,UK,Cafe,2024-04-01,96192.1,Merchandise,6.25,185
+1059,Port Gailfurt,UK,Cafe,2024-05-01,57683.2,Beverage,5.46,199
+1059,Port Gailfurt,UK,Cafe,2024-06-01,38801.74,Food,8.68,889
+1059,Port Gailfurt,UK,Cafe,2024-07-01,93375.69,Food,10.23,465
+1059,Port Gailfurt,UK,Cafe,2024-08-01,51075.88,Food,5.15,778
+1059,Port Gailfurt,UK,Cafe,2024-09-01,27345.55,Food,8.51,726
+1059,Port Gailfurt,UK,Cafe,2024-10-01,24527.13,Beverage,7.14,852
+1059,Port Gailfurt,UK,Cafe,2024-11-01,41088.23,Food,6.62,345
+1059,Port Gailfurt,UK,Cafe,2024-12-01,36330.34,Merchandise,8.38,743
+1060,East Michaelborough,USA,Drive-Thru,2024-01-01,23253.81,Food,7.7,271
+1060,East Michaelborough,USA,Drive-Thru,2024-02-01,52626.01,Beverage,10.21,347
+1060,East Michaelborough,USA,Drive-Thru,2024-03-01,48113.47,Merchandise,7.56,299
+1060,East Michaelborough,USA,Drive-Thru,2024-04-01,93756.35,Beverage,8.86,379
+1060,East Michaelborough,USA,Drive-Thru,2024-05-01,93626.97,Food,4.64,872
+1060,East Michaelborough,USA,Drive-Thru,2024-06-01,67353.84,Beverage,6.25,935
+1060,East Michaelborough,USA,Drive-Thru,2024-07-01,85011.78,Merchandise,9.51,713
+1060,East Michaelborough,USA,Drive-Thru,2024-08-01,95191.03,Food,5.67,855
+1060,East Michaelborough,USA,Drive-Thru,2024-09-01,34901.38,Beverage,8.62,631
+1060,East Michaelborough,USA,Drive-Thru,2024-10-01,29761.3,Beverage,8.23,778
+1060,East Michaelborough,USA,Drive-Thru,2024-11-01,53959.52,Merchandise,9.9,698
+1060,East Michaelborough,USA,Drive-Thru,2024-12-01,74678.02,Beverage,6.44,999
+1061,North Nicolemouth,India,Cafe,2024-01-01,99038.27,Merchandise,8.46,303
+1061,North Nicolemouth,India,Cafe,2024-02-01,54965.26,Food,6.83,853
+1061,North Nicolemouth,India,Cafe,2024-03-01,88550.71,Merchandise,7.46,660
+1061,North Nicolemouth,India,Cafe,2024-04-01,76565.57,Merchandise,7.77,636
+1061,North Nicolemouth,India,Cafe,2024-05-01,43598.62,Beverage,6.73,864
+1061,North Nicolemouth,India,Cafe,2024-06-01,24164.44,Beverage,6.14,570
+1061,North Nicolemouth,India,Cafe,2024-07-01,78847.75,Beverage,9.21,385
+1061,North Nicolemouth,India,Cafe,2024-08-01,72447.47,Food,7.07,560
+1061,North Nicolemouth,India,Cafe,2024-09-01,34347.17,Beverage,6.83,650
+1061,North Nicolemouth,India,Cafe,2024-10-01,31694.76,Merchandise,6.35,335
+1061,North Nicolemouth,India,Cafe,2024-11-01,37805.78,Beverage,8.07,557
+1061,North Nicolemouth,India,Cafe,2024-12-01,68508.51,Beverage,8.29,266
+1062,Nicolestad,France,Drive-Thru,2024-01-01,52762.02,Beverage,5.62,333
+1062,Nicolestad,France,Drive-Thru,2024-02-01,30797.75,Merchandise,6.7,252
+1062,Nicolestad,France,Drive-Thru,2024-03-01,95295.34,Merchandise,6.43,405
+1062,Nicolestad,France,Drive-Thru,2024-04-01,47495.56,Food,8.54,362
+1062,Nicolestad,France,Drive-Thru,2024-05-01,31792.69,Beverage,5.13,237
+1062,Nicolestad,France,Drive-Thru,2024-06-01,73544.61,Food,7.23,202
+1062,Nicolestad,France,Drive-Thru,2024-07-01,35090.67,Merchandise,6.42,586
+1062,Nicolestad,France,Drive-Thru,2024-08-01,95869.09,Merchandise,9.93,966
+1062,Nicolestad,France,Drive-Thru,2024-09-01,62950.96,Food,5.56,457
+1062,Nicolestad,France,Drive-Thru,2024-10-01,44273.92,Food,8.77,611
+1062,Nicolestad,France,Drive-Thru,2024-11-01,83712.76,Merchandise,7.49,884
+1062,Nicolestad,France,Drive-Thru,2024-12-01,83560.55,Food,8.97,546
+1063,North Todd,Brazil,Cafe,2024-01-01,45160.38,Food,4.86,194
+1063,North Todd,Brazil,Cafe,2024-02-01,81122.96,Merchandise,9.99,488
+1063,North Todd,Brazil,Cafe,2024-03-01,66472.84,Food,9.45,258
+1063,North Todd,Brazil,Cafe,2024-04-01,42149.87,Merchandise,7.46,738
+1063,North Todd,Brazil,Cafe,2024-05-01,76408.92,Beverage,8.72,827
+1063,North Todd,Brazil,Cafe,2024-06-01,73827.39,Food,8.36,747
+1063,North Todd,Brazil,Cafe,2024-07-01,66224.01,Beverage,9.91,628
+1063,North Todd,Brazil,Cafe,2024-08-01,23382.49,Food,6.19,766
+1063,North Todd,Brazil,Cafe,2024-09-01,24045.57,Food,8.52,303
+1063,North Todd,Brazil,Cafe,2024-10-01,60600.83,Merchandise,4.66,918
+1063,North Todd,Brazil,Cafe,2024-11-01,69141.72,Beverage,8.83,542
+1063,North Todd,Brazil,Cafe,2024-12-01,20725.05,Beverage,4.59,786
+1064,Callahanview,UK,Cafe,2024-01-01,35793.63,Beverage,4.97,782
+1064,Callahanview,UK,Cafe,2024-02-01,73490.54,Food,10.25,834
+1064,Callahanview,UK,Cafe,2024-03-01,76702.18,Beverage,5.41,204
+1064,Callahanview,UK,Cafe,2024-04-01,48103.13,Merchandise,5.78,882
+1064,Callahanview,UK,Cafe,2024-05-01,45911.99,Food,8.51,846
+1064,Callahanview,UK,Cafe,2024-06-01,72997.2,Beverage,10.23,836
+1064,Callahanview,UK,Cafe,2024-07-01,25682.76,Food,7.82,442
+1064,Callahanview,UK,Cafe,2024-08-01,43242.86,Beverage,5.7,877
+1064,Callahanview,UK,Cafe,2024-09-01,31740.81,Beverage,9.74,604
+1064,Callahanview,UK,Cafe,2024-10-01,42378.39,Merchandise,4.6,896
+1064,Callahanview,UK,Cafe,2024-11-01,81431.26,Beverage,8.09,938
+1064,Callahanview,UK,Cafe,2024-12-01,22360.31,Beverage,5.4,731
+1065,New Nicholasbury,China,Kiosk,2024-01-01,46190.46,Merchandise,8.39,524
+1065,New Nicholasbury,China,Kiosk,2024-02-01,87151.99,Merchandise,10.11,411
+1065,New Nicholasbury,China,Kiosk,2024-03-01,87327.32,Food,5.25,498
+1065,New Nicholasbury,China,Kiosk,2024-04-01,29220.05,Food,10.2,899
+1065,New Nicholasbury,China,Kiosk,2024-05-01,40985.89,Merchandise,8.92,807
+1065,New Nicholasbury,China,Kiosk,2024-06-01,91449.51,Beverage,8.34,190
+1065,New Nicholasbury,China,Kiosk,2024-07-01,35317.17,Merchandise,5.37,516
+1065,New Nicholasbury,China,Kiosk,2024-08-01,53177.93,Food,9.17,983
+1065,New Nicholasbury,China,Kiosk,2024-09-01,90251.39,Merchandise,5.18,849
+1065,New Nicholasbury,China,Kiosk,2024-10-01,39286.32,Beverage,9.64,529
+1065,New Nicholasbury,China,Kiosk,2024-11-01,24004.04,Beverage,9.63,982
+1065,New Nicholasbury,China,Kiosk,2024-12-01,47227.18,Food,10.06,543
+1066,New Jamesland,China,Kiosk,2024-01-01,35970.99,Merchandise,6.46,383
+1066,New Jamesland,China,Kiosk,2024-02-01,58616.19,Beverage,8.83,995
+1066,New Jamesland,China,Kiosk,2024-03-01,35512.53,Food,6.0,163
+1066,New Jamesland,China,Kiosk,2024-04-01,58298.76,Food,9.36,997
+1066,New Jamesland,China,Kiosk,2024-05-01,60475.22,Food,8.37,705
+1066,New Jamesland,China,Kiosk,2024-06-01,91454.42,Beverage,7.99,506
+1066,New Jamesland,China,Kiosk,2024-07-01,25531.95,Beverage,7.25,657
+1066,New Jamesland,China,Kiosk,2024-08-01,95192.24,Merchandise,8.5,541
+1066,New Jamesland,China,Kiosk,2024-09-01,65478.5,Merchandise,8.12,382
+1066,New Jamesland,China,Kiosk,2024-10-01,58747.72,Beverage,9.34,122
+1066,New Jamesland,China,Kiosk,2024-11-01,41892.12,Beverage,7.94,519
+1066,New Jamesland,China,Kiosk,2024-12-01,97342.0,Beverage,6.95,611
+1067,Rodgershaven,Japan,Drive-Thru,2024-01-01,72478.72,Merchandise,4.69,476
+1067,Rodgershaven,Japan,Drive-Thru,2024-02-01,68399.06,Merchandise,5.3,394
+1067,Rodgershaven,Japan,Drive-Thru,2024-03-01,40497.24,Beverage,6.21,117
+1067,Rodgershaven,Japan,Drive-Thru,2024-04-01,66893.72,Food,7.39,470
+1067,Rodgershaven,Japan,Drive-Thru,2024-05-01,63578.52,Food,5.25,229
+1067,Rodgershaven,Japan,Drive-Thru,2024-06-01,31884.34,Food,9.71,707
+1067,Rodgershaven,Japan,Drive-Thru,2024-07-01,52620.78,Food,4.78,589
+1067,Rodgershaven,Japan,Drive-Thru,2024-08-01,67087.45,Food,6.57,506
+1067,Rodgershaven,Japan,Drive-Thru,2024-09-01,41952.98,Merchandise,9.15,641
+1067,Rodgershaven,Japan,Drive-Thru,2024-10-01,45524.29,Beverage,4.99,926
+1067,Rodgershaven,Japan,Drive-Thru,2024-11-01,49819.46,Merchandise,4.57,318
+1067,Rodgershaven,Japan,Drive-Thru,2024-12-01,26673.33,Beverage,8.78,662
+1068,Faulknerport,UK,Drive-Thru,2024-01-01,61783.09,Beverage,6.75,423
+1068,Faulknerport,UK,Drive-Thru,2024-02-01,67940.9,Merchandise,9.46,128
+1068,Faulknerport,UK,Drive-Thru,2024-03-01,83946.2,Merchandise,5.69,412
+1068,Faulknerport,UK,Drive-Thru,2024-04-01,48084.69,Beverage,6.06,798
+1068,Faulknerport,UK,Drive-Thru,2024-05-01,38449.64,Beverage,5.72,210
+1068,Faulknerport,UK,Drive-Thru,2024-06-01,69660.14,Merchandise,5.1,523
+1068,Faulknerport,UK,Drive-Thru,2024-07-01,55874.5,Beverage,9.99,994
+1068,Faulknerport,UK,Drive-Thru,2024-08-01,26481.57,Beverage,4.65,929
+1068,Faulknerport,UK,Drive-Thru,2024-09-01,37638.33,Food,10.25,317
+1068,Faulknerport,UK,Drive-Thru,2024-10-01,58904.67,Merchandise,6.79,334
+1068,Faulknerport,UK,Drive-Thru,2024-11-01,67197.28,Beverage,10.19,896
+1068,Faulknerport,UK,Drive-Thru,2024-12-01,86849.01,Food,9.97,290
+1069,East Robertberg,Australia,Drive-Thru,2024-01-01,86978.48,Food,9.89,496
+1069,East Robertberg,Australia,Drive-Thru,2024-02-01,56267.41,Food,6.26,693
+1069,East Robertberg,Australia,Drive-Thru,2024-03-01,46796.63,Food,6.46,490
+1069,East Robertberg,Australia,Drive-Thru,2024-04-01,31144.08,Food,7.79,855
+1069,East Robertberg,Australia,Drive-Thru,2024-05-01,70375.27,Merchandise,6.21,542
+1069,East Robertberg,Australia,Drive-Thru,2024-06-01,61888.47,Food,7.01,378
+1069,East Robertberg,Australia,Drive-Thru,2024-07-01,35849.74,Merchandise,5.37,676
+1069,East Robertberg,Australia,Drive-Thru,2024-08-01,84377.23,Merchandise,6.96,182
+1069,East Robertberg,Australia,Drive-Thru,2024-09-01,90408.2,Food,8.14,236
+1069,East Robertberg,Australia,Drive-Thru,2024-10-01,57422.48,Beverage,8.97,370
+1069,East Robertberg,Australia,Drive-Thru,2024-11-01,89363.12,Beverage,10.03,918
+1069,East Robertberg,Australia,Drive-Thru,2024-12-01,22160.93,Beverage,7.13,842
+1070,New Williamport,India,Drive-Thru,2024-01-01,49102.85,Beverage,9.72,768
+1070,New Williamport,India,Drive-Thru,2024-02-01,33826.47,Food,9.58,713
+1070,New Williamport,India,Drive-Thru,2024-03-01,48303.16,Beverage,10.08,425
+1070,New Williamport,India,Drive-Thru,2024-04-01,53523.39,Food,4.71,554
+1070,New Williamport,India,Drive-Thru,2024-05-01,33568.3,Beverage,4.92,210
+1070,New Williamport,India,Drive-Thru,2024-06-01,93346.97,Merchandise,6.84,784
+1070,New Williamport,India,Drive-Thru,2024-07-01,26220.61,Merchandise,8.77,410
+1070,New Williamport,India,Drive-Thru,2024-08-01,73369.27,Food,6.97,379
+1070,New Williamport,India,Drive-Thru,2024-09-01,67838.23,Merchandise,6.6,977
+1070,New Williamport,India,Drive-Thru,2024-10-01,92741.9,Food,10.26,796
+1070,New Williamport,India,Drive-Thru,2024-11-01,63687.45,Food,9.96,424
+1070,New Williamport,India,Drive-Thru,2024-12-01,32488.15,Merchandise,7.35,404
+1071,Lake Jenniferville,Germany,Cafe,2024-01-01,86492.34,Merchandise,5.77,592
+1071,Lake Jenniferville,Germany,Cafe,2024-02-01,69845.81,Food,9.91,128
+1071,Lake Jenniferville,Germany,Cafe,2024-03-01,26163.19,Food,9.97,192
+1071,Lake Jenniferville,Germany,Cafe,2024-04-01,43369.1,Food,7.94,395
+1071,Lake Jenniferville,Germany,Cafe,2024-05-01,83209.83,Food,10.15,415
+1071,Lake Jenniferville,Germany,Cafe,2024-06-01,54551.54,Beverage,10.26,208
+1071,Lake Jenniferville,Germany,Cafe,2024-07-01,33138.89,Merchandise,9.91,352
+1071,Lake Jenniferville,Germany,Cafe,2024-08-01,92228.02,Food,6.62,239
+1071,Lake Jenniferville,Germany,Cafe,2024-09-01,53078.96,Merchandise,8.22,107
+1071,Lake Jenniferville,Germany,Cafe,2024-10-01,29709.2,Beverage,5.34,779
+1071,Lake Jenniferville,Germany,Cafe,2024-11-01,94914.44,Merchandise,9.72,271
+1071,Lake Jenniferville,Germany,Cafe,2024-12-01,78439.25,Beverage,5.09,414
+1072,North Rebekahfurt,France,Cafe,2024-01-01,64939.26,Merchandise,9.32,530
+1072,North Rebekahfurt,France,Cafe,2024-02-01,82958.9,Beverage,9.98,461
+1072,North Rebekahfurt,France,Cafe,2024-03-01,82251.9,Food,6.81,315
+1072,North Rebekahfurt,France,Cafe,2024-04-01,85117.8,Beverage,5.94,439
+1072,North Rebekahfurt,France,Cafe,2024-05-01,39164.03,Food,7.82,934
+1072,North Rebekahfurt,France,Cafe,2024-06-01,92090.86,Beverage,6.13,602
+1072,North Rebekahfurt,France,Cafe,2024-07-01,46328.87,Merchandise,7.38,893
+1072,North Rebekahfurt,France,Cafe,2024-08-01,65684.23,Merchandise,9.12,268
+1072,North Rebekahfurt,France,Cafe,2024-09-01,91409.8,Beverage,9.73,255
+1072,North Rebekahfurt,France,Cafe,2024-10-01,52841.75,Food,6.09,776
+1072,North Rebekahfurt,France,Cafe,2024-11-01,74702.75,Beverage,4.78,941
+1072,North Rebekahfurt,France,Cafe,2024-12-01,62265.61,Beverage,5.86,186
+1073,Lake Theodorechester,Japan,Kiosk,2024-01-01,49295.65,Merchandise,7.19,389
+1073,Lake Theodorechester,Japan,Kiosk,2024-02-01,60977.45,Beverage,8.87,259
+1073,Lake Theodorechester,Japan,Kiosk,2024-03-01,30122.43,Food,8.68,379
+1073,Lake Theodorechester,Japan,Kiosk,2024-04-01,71516.28,Beverage,9.18,549
+1073,Lake Theodorechester,Japan,Kiosk,2024-05-01,90845.19,Food,9.66,462
+1073,Lake Theodorechester,Japan,Kiosk,2024-06-01,64032.82,Merchandise,6.86,207
+1073,Lake Theodorechester,Japan,Kiosk,2024-07-01,44882.6,Merchandise,9.36,890
+1073,Lake Theodorechester,Japan,Kiosk,2024-08-01,34435.0,Merchandise,5.75,104
+1073,Lake Theodorechester,Japan,Kiosk,2024-09-01,82680.31,Food,10.21,850
+1073,Lake Theodorechester,Japan,Kiosk,2024-10-01,27795.63,Merchandise,6.47,322
+1073,Lake Theodorechester,Japan,Kiosk,2024-11-01,21313.86,Beverage,7.48,621
+1073,Lake Theodorechester,Japan,Kiosk,2024-12-01,94734.5,Beverage,7.05,592
+1074,Rileyshire,Japan,Cafe,2024-01-01,21129.81,Beverage,8.26,616
+1074,Rileyshire,Japan,Cafe,2024-02-01,25821.22,Merchandise,6.59,769
+1074,Rileyshire,Japan,Cafe,2024-03-01,36824.07,Beverage,4.65,471
+1074,Rileyshire,Japan,Cafe,2024-04-01,65519.34,Beverage,5.72,514
+1074,Rileyshire,Japan,Cafe,2024-05-01,69601.2,Merchandise,6.58,981
+1074,Rileyshire,Japan,Cafe,2024-06-01,45623.24,Food,5.74,522
+1074,Rileyshire,Japan,Cafe,2024-07-01,72748.17,Merchandise,6.26,387
+1074,Rileyshire,Japan,Cafe,2024-08-01,32428.77,Food,7.78,299
+1074,Rileyshire,Japan,Cafe,2024-09-01,82969.04,Food,7.78,173
+1074,Rileyshire,Japan,Cafe,2024-10-01,37594.9,Beverage,9.0,160
+1074,Rileyshire,Japan,Cafe,2024-11-01,65371.51,Food,9.09,580
+1074,Rileyshire,Japan,Cafe,2024-12-01,26608.38,Food,6.54,255
+1075,Port Brian,France,Drive-Thru,2024-01-01,99118.0,Food,9.6,887
+1075,Port Brian,France,Drive-Thru,2024-02-01,69565.41,Food,7.9,894
+1075,Port Brian,France,Drive-Thru,2024-03-01,50579.0,Food,6.56,614
+1075,Port Brian,France,Drive-Thru,2024-04-01,74802.15,Beverage,6.23,669
+1075,Port Brian,France,Drive-Thru,2024-05-01,78484.63,Merchandise,6.39,828
+1075,Port Brian,France,Drive-Thru,2024-06-01,23219.29,Food,9.17,736
+1075,Port Brian,France,Drive-Thru,2024-07-01,62768.9,Beverage,10.45,242
+1075,Port Brian,France,Drive-Thru,2024-08-01,34347.88,Merchandise,10.2,890
+1075,Port Brian,France,Drive-Thru,2024-09-01,83533.0,Beverage,6.51,582
+1075,Port Brian,France,Drive-Thru,2024-10-01,32651.44,Food,6.27,462
+1075,Port Brian,France,Drive-Thru,2024-11-01,44869.82,Beverage,9.4,801
+1075,Port Brian,France,Drive-Thru,2024-12-01,44404.38,Merchandise,10.2,136
+1076,East Benjaminberg,Brazil,Kiosk,2024-01-01,26828.78,Beverage,8.4,690
+1076,East Benjaminberg,Brazil,Kiosk,2024-02-01,92960.42,Beverage,7.04,605
+1076,East Benjaminberg,Brazil,Kiosk,2024-03-01,65997.85,Beverage,9.09,908
+1076,East Benjaminberg,Brazil,Kiosk,2024-04-01,39603.43,Food,4.59,449
+1076,East Benjaminberg,Brazil,Kiosk,2024-05-01,78568.4,Beverage,6.88,800
+1076,East Benjaminberg,Brazil,Kiosk,2024-06-01,22821.63,Beverage,6.12,389
+1076,East Benjaminberg,Brazil,Kiosk,2024-07-01,37096.16,Food,8.44,766
+1076,East Benjaminberg,Brazil,Kiosk,2024-08-01,59171.05,Beverage,5.19,266
+1076,East Benjaminberg,Brazil,Kiosk,2024-09-01,51737.12,Food,8.35,111
+1076,East Benjaminberg,Brazil,Kiosk,2024-10-01,40432.84,Beverage,5.63,400
+1076,East Benjaminberg,Brazil,Kiosk,2024-11-01,71022.97,Food,6.75,441
+1076,East Benjaminberg,Brazil,Kiosk,2024-12-01,74565.87,Beverage,6.1,115
+1077,Danielleshire,India,Kiosk,2024-01-01,52258.97,Beverage,6.3,821
+1077,Danielleshire,India,Kiosk,2024-02-01,55482.38,Beverage,6.36,607
+1077,Danielleshire,India,Kiosk,2024-03-01,68881.6,Food,6.16,555
+1077,Danielleshire,India,Kiosk,2024-04-01,62898.08,Merchandise,4.84,620
+1077,Danielleshire,India,Kiosk,2024-05-01,51060.47,Food,4.7,873
+1077,Danielleshire,India,Kiosk,2024-06-01,84354.38,Food,6.12,447
+1077,Danielleshire,India,Kiosk,2024-07-01,60524.82,Beverage,8.98,649
+1077,Danielleshire,India,Kiosk,2024-08-01,71974.91,Merchandise,8.74,821
+1077,Danielleshire,India,Kiosk,2024-09-01,27660.99,Merchandise,5.01,441
+1077,Danielleshire,India,Kiosk,2024-10-01,48966.37,Food,9.4,776
+1077,Danielleshire,India,Kiosk,2024-11-01,38171.88,Food,5.87,864
+1077,Danielleshire,India,Kiosk,2024-12-01,44244.67,Beverage,7.95,632
+1078,West Joshua,USA,Drive-Thru,2024-01-01,58025.92,Beverage,4.96,353
+1078,West Joshua,USA,Drive-Thru,2024-02-01,60825.24,Food,5.84,752
+1078,West Joshua,USA,Drive-Thru,2024-03-01,47139.55,Beverage,8.12,259
+1078,West Joshua,USA,Drive-Thru,2024-04-01,25681.8,Merchandise,4.67,697
+1078,West Joshua,USA,Drive-Thru,2024-05-01,69170.51,Merchandise,10.34,174
+1078,West Joshua,USA,Drive-Thru,2024-06-01,39200.06,Food,8.36,777
+1078,West Joshua,USA,Drive-Thru,2024-07-01,73447.02,Food,6.74,464
+1078,West Joshua,USA,Drive-Thru,2024-08-01,89047.61,Food,8.64,864
+1078,West Joshua,USA,Drive-Thru,2024-09-01,26231.63,Beverage,4.91,267
+1078,West Joshua,USA,Drive-Thru,2024-10-01,33652.86,Beverage,5.73,829
+1078,West Joshua,USA,Drive-Thru,2024-11-01,51139.61,Beverage,7.43,675
+1078,West Joshua,USA,Drive-Thru,2024-12-01,64915.32,Beverage,9.58,883
+1079,Flynnview,Australia,Drive-Thru,2024-01-01,37454.5,Food,8.92,869
+1079,Flynnview,Australia,Drive-Thru,2024-02-01,72784.32,Merchandise,8.51,493
+1079,Flynnview,Australia,Drive-Thru,2024-03-01,26005.15,Merchandise,8.82,157
+1079,Flynnview,Australia,Drive-Thru,2024-04-01,53828.56,Merchandise,6.14,918
+1079,Flynnview,Australia,Drive-Thru,2024-05-01,69062.19,Merchandise,5.51,368
+1079,Flynnview,Australia,Drive-Thru,2024-06-01,32865.25,Beverage,6.36,613
+1079,Flynnview,Australia,Drive-Thru,2024-07-01,95398.69,Merchandise,6.51,705
+1079,Flynnview,Australia,Drive-Thru,2024-08-01,68554.25,Beverage,6.71,722
+1079,Flynnview,Australia,Drive-Thru,2024-09-01,52783.95,Merchandise,6.72,597
+1079,Flynnview,Australia,Drive-Thru,2024-10-01,85984.27,Food,6.69,490
+1079,Flynnview,Australia,Drive-Thru,2024-11-01,20904.13,Food,7.89,394
+1079,Flynnview,Australia,Drive-Thru,2024-12-01,28546.92,Food,6.7,459
+1080,West Adam,Japan,Drive-Thru,2024-01-01,89035.09,Food,10.05,476
+1080,West Adam,Japan,Drive-Thru,2024-02-01,57485.37,Food,7.65,560
+1080,West Adam,Japan,Drive-Thru,2024-03-01,32457.17,Beverage,9.96,652
+1080,West Adam,Japan,Drive-Thru,2024-04-01,45823.91,Merchandise,5.8,280
+1080,West Adam,Japan,Drive-Thru,2024-05-01,23769.31,Food,8.96,434
+1080,West Adam,Japan,Drive-Thru,2024-06-01,45261.69,Food,4.62,404
+1080,West Adam,Japan,Drive-Thru,2024-07-01,40343.29,Merchandise,7.01,401
+1080,West Adam,Japan,Drive-Thru,2024-08-01,49431.85,Food,9.17,461
+1080,West Adam,Japan,Drive-Thru,2024-09-01,57286.61,Merchandise,10.09,872
+1080,West Adam,Japan,Drive-Thru,2024-10-01,66425.3,Merchandise,7.49,531
+1080,West Adam,Japan,Drive-Thru,2024-11-01,70471.92,Beverage,8.21,628
+1080,West Adam,Japan,Drive-Thru,2024-12-01,88501.45,Food,5.3,793
+1081,Burtonview,China,Kiosk,2024-01-01,96120.81,Food,5.43,201
+1081,Burtonview,China,Kiosk,2024-02-01,47393.27,Beverage,7.69,567
+1081,Burtonview,China,Kiosk,2024-03-01,27953.2,Merchandise,9.47,375
+1081,Burtonview,China,Kiosk,2024-04-01,71716.39,Beverage,10.38,966
+1081,Burtonview,China,Kiosk,2024-05-01,86612.0,Food,7.46,421
+1081,Burtonview,China,Kiosk,2024-06-01,29780.32,Merchandise,7.84,572
+1081,Burtonview,China,Kiosk,2024-07-01,69351.42,Food,7.95,519
+1081,Burtonview,China,Kiosk,2024-08-01,62500.37,Beverage,7.37,893
+1081,Burtonview,China,Kiosk,2024-09-01,59726.18,Merchandise,8.56,538
+1081,Burtonview,China,Kiosk,2024-10-01,20088.25,Beverage,9.09,755
+1081,Burtonview,China,Kiosk,2024-11-01,47408.5,Food,7.81,847
+1081,Burtonview,China,Kiosk,2024-12-01,82603.13,Food,6.55,483
+1082,Lestad,Germany,Cafe,2024-01-01,41138.28,Merchandise,8.51,624
+1082,Lestad,Germany,Cafe,2024-02-01,33849.59,Merchandise,4.79,930
+1082,Lestad,Germany,Cafe,2024-03-01,97364.69,Merchandise,8.52,255
+1082,Lestad,Germany,Cafe,2024-04-01,88483.53,Food,5.93,536
+1082,Lestad,Germany,Cafe,2024-05-01,24867.31,Merchandise,9.31,843
+1082,Lestad,Germany,Cafe,2024-06-01,31555.46,Beverage,7.12,506
+1082,Lestad,Germany,Cafe,2024-07-01,45734.44,Beverage,5.13,399
+1082,Lestad,Germany,Cafe,2024-08-01,90888.29,Food,5.28,702
+1082,Lestad,Germany,Cafe,2024-09-01,94860.86,Beverage,9.97,647
+1082,Lestad,Germany,Cafe,2024-10-01,64053.5,Food,9.37,533
+1082,Lestad,Germany,Cafe,2024-11-01,20604.32,Food,10.07,825
+1082,Lestad,Germany,Cafe,2024-12-01,63758.24,Beverage,6.41,797
+1083,Port Alan,Japan,Drive-Thru,2024-01-01,50067.87,Food,8.87,204
+1083,Port Alan,Japan,Drive-Thru,2024-02-01,51361.03,Beverage,7.93,122
+1083,Port Alan,Japan,Drive-Thru,2024-03-01,27779.17,Beverage,9.28,494
+1083,Port Alan,Japan,Drive-Thru,2024-04-01,41713.09,Merchandise,4.8,698
+1083,Port Alan,Japan,Drive-Thru,2024-05-01,29134.81,Merchandise,9.65,820
+1083,Port Alan,Japan,Drive-Thru,2024-06-01,58812.58,Food,5.94,649
+1083,Port Alan,Japan,Drive-Thru,2024-07-01,96526.14,Merchandise,6.35,603
+1083,Port Alan,Japan,Drive-Thru,2024-08-01,91628.51,Merchandise,7.44,657
+1083,Port Alan,Japan,Drive-Thru,2024-09-01,55489.36,Beverage,10.16,525
+1083,Port Alan,Japan,Drive-Thru,2024-10-01,47962.04,Merchandise,9.28,677
+1083,Port Alan,Japan,Drive-Thru,2024-11-01,77637.34,Merchandise,9.77,658
+1083,Port Alan,Japan,Drive-Thru,2024-12-01,95456.4,Merchandise,10.42,976
+1084,South Lisaside,UK,Drive-Thru,2024-01-01,70791.31,Beverage,5.42,304
+1084,South Lisaside,UK,Drive-Thru,2024-02-01,73331.74,Beverage,7.97,258
+1084,South Lisaside,UK,Drive-Thru,2024-03-01,27570.14,Food,7.74,409
+1084,South Lisaside,UK,Drive-Thru,2024-04-01,25973.4,Food,9.06,453
+1084,South Lisaside,UK,Drive-Thru,2024-05-01,81440.88,Beverage,4.95,793
+1084,South Lisaside,UK,Drive-Thru,2024-06-01,81493.37,Food,5.07,451
+1084,South Lisaside,UK,Drive-Thru,2024-07-01,97597.25,Merchandise,8.66,938
+1084,South Lisaside,UK,Drive-Thru,2024-08-01,96194.3,Food,9.27,241
+1084,South Lisaside,UK,Drive-Thru,2024-09-01,42411.3,Merchandise,9.4,113
+1084,South Lisaside,UK,Drive-Thru,2024-10-01,45489.09,Beverage,8.53,493
+1084,South Lisaside,UK,Drive-Thru,2024-11-01,66993.66,Food,10.18,436
+1084,South Lisaside,UK,Drive-Thru,2024-12-01,87077.09,Beverage,5.21,373
+1085,Port Geraldburgh,China,Drive-Thru,2024-01-01,62931.44,Food,7.99,421
+1085,Port Geraldburgh,China,Drive-Thru,2024-02-01,86787.44,Beverage,10.4,872
+1085,Port Geraldburgh,China,Drive-Thru,2024-03-01,44812.41,Beverage,7.03,967
+1085,Port Geraldburgh,China,Drive-Thru,2024-04-01,36841.57,Merchandise,10.2,516
+1085,Port Geraldburgh,China,Drive-Thru,2024-05-01,20802.24,Beverage,9.15,757
+1085,Port Geraldburgh,China,Drive-Thru,2024-06-01,21139.28,Beverage,5.68,986
+1085,Port Geraldburgh,China,Drive-Thru,2024-07-01,51848.21,Merchandise,6.95,453
+1085,Port Geraldburgh,China,Drive-Thru,2024-08-01,67963.87,Merchandise,4.68,168
+1085,Port Geraldburgh,China,Drive-Thru,2024-09-01,44223.72,Food,9.4,773
+1085,Port Geraldburgh,China,Drive-Thru,2024-10-01,96009.3,Beverage,9.73,387
+1085,Port Geraldburgh,China,Drive-Thru,2024-11-01,23658.65,Merchandise,6.63,946
+1085,Port Geraldburgh,China,Drive-Thru,2024-12-01,45464.02,Beverage,9.94,277
+1086,Morrisbury,USA,Kiosk,2024-01-01,97827.95,Merchandise,7.86,758
+1086,Morrisbury,USA,Kiosk,2024-02-01,22658.1,Merchandise,4.93,794
+1086,Morrisbury,USA,Kiosk,2024-03-01,38395.56,Beverage,6.23,561
+1086,Morrisbury,USA,Kiosk,2024-04-01,27107.29,Beverage,10.3,706
+1086,Morrisbury,USA,Kiosk,2024-05-01,59835.82,Food,5.75,973
+1086,Morrisbury,USA,Kiosk,2024-06-01,42103.81,Food,4.52,375
+1086,Morrisbury,USA,Kiosk,2024-07-01,75623.81,Beverage,8.79,201
+1086,Morrisbury,USA,Kiosk,2024-08-01,86691.4,Beverage,7.82,713
+1086,Morrisbury,USA,Kiosk,2024-09-01,25582.44,Merchandise,7.85,732
+1086,Morrisbury,USA,Kiosk,2024-10-01,43013.31,Food,9.15,739
+1086,Morrisbury,USA,Kiosk,2024-11-01,80939.23,Beverage,7.68,630
+1086,Morrisbury,USA,Kiosk,2024-12-01,62043.98,Beverage,8.68,292
+1087,Rodriguezborough,Australia,Drive-Thru,2024-01-01,96325.65,Merchandise,10.26,605
+1087,Rodriguezborough,Australia,Drive-Thru,2024-02-01,87178.36,Beverage,10.17,458
+1087,Rodriguezborough,Australia,Drive-Thru,2024-03-01,64588.81,Merchandise,9.82,127
+1087,Rodriguezborough,Australia,Drive-Thru,2024-04-01,77210.78,Beverage,5.27,586
+1087,Rodriguezborough,Australia,Drive-Thru,2024-05-01,43784.76,Merchandise,9.67,266
+1087,Rodriguezborough,Australia,Drive-Thru,2024-06-01,24960.19,Merchandise,7.72,464
+1087,Rodriguezborough,Australia,Drive-Thru,2024-07-01,94087.93,Beverage,4.73,243
+1087,Rodriguezborough,Australia,Drive-Thru,2024-08-01,29598.43,Food,6.71,242
+1087,Rodriguezborough,Australia,Drive-Thru,2024-09-01,93108.01,Beverage,9.16,253
+1087,Rodriguezborough,Australia,Drive-Thru,2024-10-01,88772.9,Beverage,4.69,979
+1087,Rodriguezborough,Australia,Drive-Thru,2024-11-01,32234.64,Beverage,7.31,102
+1087,Rodriguezborough,Australia,Drive-Thru,2024-12-01,24936.74,Merchandise,8.41,602
+1088,Kimstad,China,Drive-Thru,2024-01-01,83727.99,Beverage,8.08,446
+1088,Kimstad,China,Drive-Thru,2024-02-01,74911.51,Food,9.43,375
+1088,Kimstad,China,Drive-Thru,2024-03-01,70892.07,Merchandise,9.17,103
+1088,Kimstad,China,Drive-Thru,2024-04-01,59485.25,Merchandise,5.5,767
+1088,Kimstad,China,Drive-Thru,2024-05-01,35284.36,Beverage,9.3,590
+1088,Kimstad,China,Drive-Thru,2024-06-01,61286.63,Beverage,8.16,568
+1088,Kimstad,China,Drive-Thru,2024-07-01,59447.12,Beverage,5.15,523
+1088,Kimstad,China,Drive-Thru,2024-08-01,95681.2,Food,6.5,937
+1088,Kimstad,China,Drive-Thru,2024-09-01,30054.86,Merchandise,4.93,256
+1088,Kimstad,China,Drive-Thru,2024-10-01,98993.57,Beverage,5.94,271
+1088,Kimstad,China,Drive-Thru,2024-11-01,42165.96,Food,7.1,596
+1088,Kimstad,China,Drive-Thru,2024-12-01,27515.97,Merchandise,10.34,375
+1089,Porterburgh,UK,Drive-Thru,2024-01-01,70357.13,Beverage,7.79,548
+1089,Porterburgh,UK,Drive-Thru,2024-02-01,25775.96,Food,6.25,324
+1089,Porterburgh,UK,Drive-Thru,2024-03-01,58059.31,Food,9.17,975
+1089,Porterburgh,UK,Drive-Thru,2024-04-01,47502.41,Food,10.47,563
+1089,Porterburgh,UK,Drive-Thru,2024-05-01,23694.83,Beverage,5.64,757
+1089,Porterburgh,UK,Drive-Thru,2024-06-01,99941.68,Beverage,9.94,464
+1089,Porterburgh,UK,Drive-Thru,2024-07-01,26042.13,Beverage,7.6,120
+1089,Porterburgh,UK,Drive-Thru,2024-08-01,26764.82,Merchandise,7.09,343
+1089,Porterburgh,UK,Drive-Thru,2024-09-01,93303.32,Beverage,5.67,891
+1089,Porterburgh,UK,Drive-Thru,2024-10-01,72598.12,Merchandise,9.44,591
+1089,Porterburgh,UK,Drive-Thru,2024-11-01,55867.12,Food,7.82,940
+1089,Porterburgh,UK,Drive-Thru,2024-12-01,22876.7,Beverage,9.26,811
+1090,Bradleybury,China,Cafe,2024-01-01,99235.74,Food,9.29,797
+1090,Bradleybury,China,Cafe,2024-02-01,30391.64,Merchandise,7.31,261
+1090,Bradleybury,China,Cafe,2024-03-01,26345.83,Food,7.91,863
+1090,Bradleybury,China,Cafe,2024-04-01,51722.35,Food,4.61,715
+1090,Bradleybury,China,Cafe,2024-05-01,83806.13,Beverage,9.13,843
+1090,Bradleybury,China,Cafe,2024-06-01,62159.8,Food,8.37,307
+1090,Bradleybury,China,Cafe,2024-07-01,81086.71,Food,5.05,694
+1090,Bradleybury,China,Cafe,2024-08-01,70513.29,Food,7.87,915
+1090,Bradleybury,China,Cafe,2024-09-01,61568.65,Merchandise,9.91,104
+1090,Bradleybury,China,Cafe,2024-10-01,62481.77,Beverage,4.85,309
+1090,Bradleybury,China,Cafe,2024-11-01,58358.49,Beverage,8.88,229
+1090,Bradleybury,China,Cafe,2024-12-01,26941.04,Merchandise,5.87,384
+1091,South Alexischester,France,Cafe,2024-01-01,62700.47,Beverage,6.54,484
+1091,South Alexischester,France,Cafe,2024-02-01,30796.75,Beverage,7.7,851
+1091,South Alexischester,France,Cafe,2024-03-01,73233.25,Merchandise,8.56,542
+1091,South Alexischester,France,Cafe,2024-04-01,35062.17,Merchandise,7.04,390
+1091,South Alexischester,France,Cafe,2024-05-01,73428.86,Food,7.4,275
+1091,South Alexischester,France,Cafe,2024-06-01,43642.76,Merchandise,8.03,385
+1091,South Alexischester,France,Cafe,2024-07-01,98220.11,Merchandise,5.68,537
+1091,South Alexischester,France,Cafe,2024-08-01,22761.43,Beverage,9.43,613
+1091,South Alexischester,France,Cafe,2024-09-01,43498.03,Food,9.26,427
+1091,South Alexischester,France,Cafe,2024-10-01,71175.15,Merchandise,7.7,137
+1091,South Alexischester,France,Cafe,2024-11-01,63767.84,Food,6.07,397
+1091,South Alexischester,France,Cafe,2024-12-01,46101.66,Merchandise,7.1,939
+1092,Jeremyfort,Brazil,Cafe,2024-01-01,20806.97,Food,10.26,768
+1092,Jeremyfort,Brazil,Cafe,2024-02-01,59871.23,Food,8.85,828
+1092,Jeremyfort,Brazil,Cafe,2024-03-01,64888.25,Merchandise,9.45,521
+1092,Jeremyfort,Brazil,Cafe,2024-04-01,67469.25,Merchandise,5.58,602
+1092,Jeremyfort,Brazil,Cafe,2024-05-01,95159.01,Food,7.86,393
+1092,Jeremyfort,Brazil,Cafe,2024-06-01,82927.48,Beverage,6.21,401
+1092,Jeremyfort,Brazil,Cafe,2024-07-01,87556.37,Merchandise,8.06,723
+1092,Jeremyfort,Brazil,Cafe,2024-08-01,89072.01,Food,6.2,167
+1092,Jeremyfort,Brazil,Cafe,2024-09-01,28283.26,Beverage,7.38,324
+1092,Jeremyfort,Brazil,Cafe,2024-10-01,77495.8,Food,4.59,324
+1092,Jeremyfort,Brazil,Cafe,2024-11-01,27944.91,Beverage,5.3,568
+1092,Jeremyfort,Brazil,Cafe,2024-12-01,96021.73,Beverage,7.26,547
+1093,South Miguelland,Japan,Cafe,2024-01-01,45118.44,Food,7.17,587
+1093,South Miguelland,Japan,Cafe,2024-02-01,87240.65,Merchandise,6.34,533
+1093,South Miguelland,Japan,Cafe,2024-03-01,27089.86,Beverage,6.54,683
+1093,South Miguelland,Japan,Cafe,2024-04-01,76190.05,Beverage,6.08,520
+1093,South Miguelland,Japan,Cafe,2024-05-01,41858.98,Beverage,7.93,561
+1093,South Miguelland,Japan,Cafe,2024-06-01,72881.95,Merchandise,7.78,373
+1093,South Miguelland,Japan,Cafe,2024-07-01,68773.37,Beverage,5.28,504
+1093,South Miguelland,Japan,Cafe,2024-08-01,20980.9,Beverage,6.34,905
+1093,South Miguelland,Japan,Cafe,2024-09-01,89066.55,Merchandise,7.91,489
+1093,South Miguelland,Japan,Cafe,2024-10-01,76385.86,Food,8.2,328
+1093,South Miguelland,Japan,Cafe,2024-11-01,98151.45,Beverage,9.95,476
+1093,South Miguelland,Japan,Cafe,2024-12-01,87839.05,Food,5.34,263
+1094,Thomasbury,Brazil,Cafe,2024-01-01,69149.32,Merchandise,7.43,693
+1094,Thomasbury,Brazil,Cafe,2024-02-01,84783.08,Beverage,4.61,285
+1094,Thomasbury,Brazil,Cafe,2024-03-01,61955.51,Food,5.37,970
+1094,Thomasbury,Brazil,Cafe,2024-04-01,36047.79,Food,5.12,427
+1094,Thomasbury,Brazil,Cafe,2024-05-01,21699.31,Food,8.23,605
+1094,Thomasbury,Brazil,Cafe,2024-06-01,80077.69,Food,6.91,352
+1094,Thomasbury,Brazil,Cafe,2024-07-01,44650.68,Food,5.06,551
+1094,Thomasbury,Brazil,Cafe,2024-08-01,88658.17,Food,10.21,794
+1094,Thomasbury,Brazil,Cafe,2024-09-01,62793.38,Food,9.52,683
+1094,Thomasbury,Brazil,Cafe,2024-10-01,43108.64,Food,7.21,804
+1094,Thomasbury,Brazil,Cafe,2024-11-01,71020.37,Food,7.64,433
+1094,Thomasbury,Brazil,Cafe,2024-12-01,50453.16,Food,6.24,734
+1095,Lambside,France,Kiosk,2024-01-01,73418.79,Food,7.99,160
+1095,Lambside,France,Kiosk,2024-02-01,74306.24,Food,5.79,627
+1095,Lambside,France,Kiosk,2024-03-01,25408.2,Beverage,4.98,722
+1095,Lambside,France,Kiosk,2024-04-01,45060.92,Merchandise,7.06,604
+1095,Lambside,France,Kiosk,2024-05-01,50353.31,Beverage,7.19,999
+1095,Lambside,France,Kiosk,2024-06-01,84277.86,Merchandise,5.42,135
+1095,Lambside,France,Kiosk,2024-07-01,48659.48,Food,9.71,582
+1095,Lambside,France,Kiosk,2024-08-01,84156.93,Merchandise,4.75,706
+1095,Lambside,France,Kiosk,2024-09-01,65540.37,Food,5.95,284
+1095,Lambside,France,Kiosk,2024-10-01,71102.24,Beverage,4.89,718
+1095,Lambside,France,Kiosk,2024-11-01,64069.42,Merchandise,6.95,612
+1095,Lambside,France,Kiosk,2024-12-01,24681.74,Food,7.72,424
+1096,Fieldstown,Brazil,Kiosk,2024-01-01,71595.54,Merchandise,7.16,746
+1096,Fieldstown,Brazil,Kiosk,2024-02-01,21101.5,Food,10.12,727
+1096,Fieldstown,Brazil,Kiosk,2024-03-01,89590.4,Food,6.96,993
+1096,Fieldstown,Brazil,Kiosk,2024-04-01,90231.31,Merchandise,9.49,546
+1096,Fieldstown,Brazil,Kiosk,2024-05-01,20369.71,Food,5.06,955
+1096,Fieldstown,Brazil,Kiosk,2024-06-01,81056.58,Food,7.52,295
+1096,Fieldstown,Brazil,Kiosk,2024-07-01,87782.97,Merchandise,9.65,696
+1096,Fieldstown,Brazil,Kiosk,2024-08-01,70313.58,Merchandise,9.1,833
+1096,Fieldstown,Brazil,Kiosk,2024-09-01,57515.31,Food,7.63,546
+1096,Fieldstown,Brazil,Kiosk,2024-10-01,75447.55,Beverage,5.35,858
+1096,Fieldstown,Brazil,Kiosk,2024-11-01,33531.23,Beverage,6.58,246
+1096,Fieldstown,Brazil,Kiosk,2024-12-01,31242.09,Beverage,4.89,545
+1097,Jenniferfurt,Germany,Cafe,2024-01-01,41917.77,Merchandise,5.8,520
+1097,Jenniferfurt,Germany,Cafe,2024-02-01,30968.35,Beverage,8.15,841
+1097,Jenniferfurt,Germany,Cafe,2024-03-01,33076.5,Beverage,9.34,587
+1097,Jenniferfurt,Germany,Cafe,2024-04-01,33607.17,Food,8.04,171
+1097,Jenniferfurt,Germany,Cafe,2024-05-01,27297.68,Beverage,6.55,961
+1097,Jenniferfurt,Germany,Cafe,2024-06-01,75962.66,Beverage,6.66,355
+1097,Jenniferfurt,Germany,Cafe,2024-07-01,96968.69,Food,4.82,316
+1097,Jenniferfurt,Germany,Cafe,2024-08-01,56382.73,Merchandise,5.41,650
+1097,Jenniferfurt,Germany,Cafe,2024-09-01,25284.92,Merchandise,5.59,514
+1097,Jenniferfurt,Germany,Cafe,2024-10-01,48227.43,Merchandise,5.6,257
+1097,Jenniferfurt,Germany,Cafe,2024-11-01,90623.65,Food,6.97,127
+1097,Jenniferfurt,Germany,Cafe,2024-12-01,89527.64,Beverage,4.79,344
+1098,West Jonathan,France,Kiosk,2024-01-01,44682.99,Merchandise,4.77,713
+1098,West Jonathan,France,Kiosk,2024-02-01,40472.02,Merchandise,9.54,792
+1098,West Jonathan,France,Kiosk,2024-03-01,61693.96,Food,10.44,722
+1098,West Jonathan,France,Kiosk,2024-04-01,21123.22,Food,4.82,508
+1098,West Jonathan,France,Kiosk,2024-05-01,33017.66,Beverage,4.76,741
+1098,West Jonathan,France,Kiosk,2024-06-01,87525.81,Merchandise,4.87,624
+1098,West Jonathan,France,Kiosk,2024-07-01,64691.92,Merchandise,10.4,610
+1098,West Jonathan,France,Kiosk,2024-08-01,25028.54,Beverage,5.15,207
+1098,West Jonathan,France,Kiosk,2024-09-01,66529.81,Food,4.68,435
+1098,West Jonathan,France,Kiosk,2024-10-01,21899.56,Food,5.56,814
+1098,West Jonathan,France,Kiosk,2024-11-01,68364.5,Merchandise,8.01,969
+1098,West Jonathan,France,Kiosk,2024-12-01,79880.55,Food,4.64,972
+1099,East Sarah,USA,Drive-Thru,2024-01-01,42522.77,Food,7.0,770
+1099,East Sarah,USA,Drive-Thru,2024-02-01,28384.88,Food,6.81,336
+1099,East Sarah,USA,Drive-Thru,2024-03-01,71703.29,Beverage,7.19,464
+1099,East Sarah,USA,Drive-Thru,2024-04-01,42030.11,Merchandise,7.25,130
+1099,East Sarah,USA,Drive-Thru,2024-05-01,28527.54,Food,4.76,250
+1099,East Sarah,USA,Drive-Thru,2024-06-01,28102.87,Food,9.21,310
+1099,East Sarah,USA,Drive-Thru,2024-07-01,80161.98,Beverage,6.57,326
+1099,East Sarah,USA,Drive-Thru,2024-08-01,51439.42,Merchandise,5.66,687
+1099,East Sarah,USA,Drive-Thru,2024-09-01,51233.12,Food,10.22,1000
+1099,East Sarah,USA,Drive-Thru,2024-10-01,56143.59,Beverage,9.65,949
+1099,East Sarah,USA,Drive-Thru,2024-11-01,76452.98,Beverage,9.82,255
+1099,East Sarah,USA,Drive-Thru,2024-12-01,47349.34,Merchandise,7.92,119
+1100,Jesseborough,France,Kiosk,2024-01-01,92187.46,Beverage,9.29,102
+1100,Jesseborough,France,Kiosk,2024-02-01,91364.11,Food,5.93,357
+1100,Jesseborough,France,Kiosk,2024-03-01,42016.9,Food,6.01,932
+1100,Jesseborough,France,Kiosk,2024-04-01,91866.25,Merchandise,9.98,732
+1100,Jesseborough,France,Kiosk,2024-05-01,28874.42,Food,7.97,306
+1100,Jesseborough,France,Kiosk,2024-06-01,29319.61,Merchandise,6.95,267
+1100,Jesseborough,France,Kiosk,2024-07-01,68411.22,Food,10.4,200
+1100,Jesseborough,France,Kiosk,2024-08-01,72532.62,Beverage,7.39,212
+1100,Jesseborough,France,Kiosk,2024-09-01,62163.44,Beverage,5.11,407
+1100,Jesseborough,France,Kiosk,2024-10-01,87130.55,Merchandise,7.79,254
+1100,Jesseborough,France,Kiosk,2024-11-01,41513.51,Merchandise,9.13,883
+1100,Jesseborough,France,Kiosk,2024-12-01,77489.66,Beverage,7.86,261
